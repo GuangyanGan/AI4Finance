@@ -2,7 +2,6 @@
 
 A curated collection of papers on **AI for Finance** from top machine learning and AI conferences, organized by venue and topic.
 
-> Inspired by [agiresearch/AgentRecSys](https://github.com/agiresearch/AgentRecSys). Contributions welcome!
 
 ---
 
