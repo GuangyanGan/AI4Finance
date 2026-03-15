@@ -6,22 +6,15 @@
 
 ## 📚 Conferences & Workshops
 
-### General ML & Data Mining Conferences
-
 | Conference | Years | Papers | Status | Link |
 |-----------|-------|--------|--------|------|
 | **NeurIPS** | 1994–2025 | 55+ | ✅ Complete | [NIPS.md](./NIPS.md) |
-| **KDD** | 2015–2025 | 8+ | ✅ Complete | [KDD.md](./KDD.md) |
-| **WWW** | 2015–2025 | 8+ | ⏳ In Progress | [WWW.md](./WWW.md) |
-
-### Top-Tier ML Conferences
-
-| Conference | Years | Papers | Status | Link |
-|-----------|-------|--------|--------|------|
 | **ICLR** | 2013–2025 | 22+ | ✅ Complete | [ICLR.md](./ICLR.md) |
 | **ICML** | 2020–2025 | 15+ | ✅ Complete | [ICML.md](./ICML.md) |
 | **AAAI** | 2020–2025 | 10+ | ✅ Complete | [AAAI.md](./AAAI.md) |
 | **IJCAI** | 2015–2025 | 18+ | ✅ Complete | [IJCAI.md](./IJCAI.md) |
+| **KDD** | 2015–2025 | 8+ | ✅ Complete | [KDD.md](./KDD.md) |
+| **WWW** | 2015–2025 | 8+ | ⏳ In Progress | [WWW.md](./WWW.md) |
 
 ---
 
