@@ -19,6 +19,7 @@ A curated collection of papers on **AI for Finance** from top machine learning a
   - [Other AI for Finance](#9-other-ai-for-finance)
 - [NeurIPS (Workshop)](#neurips-workshop)
 - [ICLR](#iclr)
+- [Other Conferences](#other-conferences)
 - [Summary Statistics](#summary-statistics)
 
 ---
@@ -157,11 +158,20 @@ A curated collection of papers on **AI for Finance** from top machine learning a
 
 ## ICLR
 
-> Coming soon — contributions welcome!
+See [ICLR.md](./ICLR.md) for the complete list of ICLR papers on AI for Finance (2023–2025).
 
-| **Paper** | **Authors** | **Year** | **Code** |
-|-----------|-------------|----------|----------|
-| — | — | — | — |
+**Quick Stats:**
+- 6+ papers (2023–2025)
+- ICLR 2025 Workshop on Financial AI: 60+ submissions, 200+ attendees
+- Main focus: Time series forecasting, algorithmic trading, neural differential equations
+
+---
+
+## Other Conferences
+
+- **ICML**: Coming soon
+- **ACL**: Coming soon
+- **AAAI**: Coming soon
 
 ---
 
@@ -171,8 +181,9 @@ A curated collection of papers on **AI for Finance** from top machine learning a
 |-------|--------------|----------|
 | NeurIPS Main Track | 1994–2025 | 43 |
 | NeurIPS Workshop | 2020, 2025 | 12 |
-| ICLR | — | 0 (TBD) |
-| **Total** | | **55+** |
+| ICLR Main Track | 2023–2025 | 4 |
+| ICLR Workshop | 2025 | 60+ |
+| **Total** | | **119+** |
 
 ---
 
