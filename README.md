@@ -20,6 +20,14 @@
 
 ---
 
+## 🎯 Specialized Topics
+
+| Topic | Coverage | Status | Link |
+|-------|----------|--------|------|
+| **Algorithmic Trading & Execution** | 1998–2025 | ✅ Complete | [TRADING.md](./TRADING.md) |
+
+---
+
 ## 📊 Summary Statistics
 
 | Venue | Years | # Papers | Status |
