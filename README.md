@@ -14,7 +14,9 @@
 | **AAAI** | 2020–2025 | 10+ | ✅ Complete | [AAAI.md](./AAAI.md) |
 | **IJCAI** | 2015–2025 | 18+ | ✅ Complete | [IJCAI.md](./IJCAI.md) |
 | **KDD** | 2015–2025 | 8+ | ✅ Complete | [KDD.md](./KDD.md) |
-| **WWW** | 2015–2025 | 8+ | ⏳ In Progress | [WWW.md](./WWW.md) |
+| **WWW** | 2015–2025 | 10+ | ✅ Complete | [WWW.md](./WWW.md) |
+| **SIGIR** | 2015–2025 | 9+ | ✅ Complete | [SIGIR.md](./SIGIR.md) |
+| **EMNLP** | 2019–2025 | 16+ | ✅ Complete | [EMNLP.md](./EMNLP.md) |
 
 ---
 
@@ -30,8 +32,10 @@
 | AAAI | 2020–2025 | 10 | ✅ |
 | IJCAI | 2015–2025 | 18 | ✅ |
 | KDD | 2015–2025 | 8 | ✅ |
-| WWW | 2015–2025 | 8 | ⏳ |
-| **Total** | | **196+** | |
+| WWW | 2015–2025 | 10 | ✅ |
+| SIGIR | 2015–2025 | 9 | ✅ |
+| EMNLP | 2019–2025 | 16 | ✅ |
+| **Total** | | **223+** | |
 
 ---
 
