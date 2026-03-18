@@ -43,6 +43,7 @@
 | [Universal Trading for Order Execution with Oracle Policy Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/17358) | Fang, Y., Ren, K., Liu, W., Zhou, D., Zhang, W., Bian, J., Yu, Y., Liu, T.Y. | 2021 | AAAI | N/A |
 | [DeepTrader: A Deep Reinforcement Learning Approach for Risk-Return Balanced Portfolio Management with Market Conditions Embedding](https://ojs.aaai.org/index.php/AAAI/article/view/17283) | Wang, Z., Huang, B., Tu, S., Zhang, K., Xu, L. | 2021 | AAAI | N/A |
 | [Earnhft: Efficient Hierarchical Reinforcement Learning for High Frequency Trading](https://ojs.aaai.org/index.php/AAAI/article/view/29384) | Molei Qin, Shuo Sun, Wentao Zhang, Haochong Xia, Xinrun Wang, Bo An | 2024 | AAAI | N/A |
+| [Logic-Q: Improving Deep Reinforcement Learning-based Quantitative Trading via Program Sketch-based Tuning](https://ojs.aaai.org/index.php/AAAI/article/view/2025) | Li, Z., Jiang, J., Cao, Y., Cui, A., Wu, B., Li, B., ..., Sun, D. D. | 2025 | AAAI | N/A |
 
 ---
 
