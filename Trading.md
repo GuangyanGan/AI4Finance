@@ -78,7 +78,7 @@
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
-| [FLAG-TRADER: Fusion LLM-Agent with Gradient-based Reinforcement Learning for Financial Trading](https://aclanthology.org/2025.findings-acl.716/) | Guojun Xiong, Zhiyang Deng, Keyi Wang, Yupeng Cao, Haohang Li, Yangyang Yu, Xueqing Peng, Mingquan Lin, Kaleb E. Smith, Xiao-Yang Liu, Jimin Huang, Sophia Ananiadou, Qianqian Xie | 2025 | ACL | N/A |
+| [FLAG-TRADER: Fusion LLM-Agent with Gradient-based Reinforcement Learning for Financial Trading](https://aclanthology.org/2025.findings-acl.716/) | Xiong, G., Deng, Z., Wang, K., Cao, Y., Li, H., Yu, Y., et al. | 2025 | ACL Findings | N/A |
 | [InvestorBench: A Benchmark for Financial Decision-Making Tasks with LLM-based Agent](https://aclanthology.org/2025.acl-long.180/) | Li, H., Cao, Y., Yu, Y., Javaji, S. R., Deng, Z., He, Y., et al. | 2025 | ACL | N/A |
 | [Fraud-R1: A Multi-Round Benchmark for Assessing the Robustness of LLM Against Augmented Fraud and Phishing Inducements](https://aclanthology.org/2025.findings-acl.310/) | Yang, S., Zhu, S., Wu, Z., Wang, K., Yao, J., Wu, J., et al. | 2025 | ACL Findings | N/A |
 
@@ -89,6 +89,7 @@
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
 | [CryptoTrade: A Reflective LLM-Based Agent to Guide Zero-Shot Cryptocurrency Trading](https://aclanthology.org/2024.emnlp-main.75/) | Yuan Li, Bingqiao Luo, Qian Wang, Nuo Chen, Xu Liu, Bingsheng He | 2024 | EMNLP | N/A |
+| [VisFinEval: A Scenario-Driven Chinese Multimodal Benchmark for Holistic Financial Understanding](https://aclanthology.org/2025.emnlp-main.1445/) | Liu, Z., Guo, X., Xia, H., Zeng, L., Lou, F., Niu, J., et al. | 2025 | EMNLP | N/A |
 
 ---
 
