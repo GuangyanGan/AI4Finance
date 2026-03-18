@@ -30,6 +30,7 @@
 | [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://proceedings.neurips.cc/paper/2000/hash/f2577d4d3d85b4b2b52b0abebb14325a-Abstract.html) | Sutton, R.S., McAllester, D.A., Singh, S.P., Mansour, Y. | 2000 | NeurIPS | N/A |
 | [Practical Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/abs/1811.07522) | Zhuoran Xiong, Xiao-Yang Liu, Shan Zhong, Hongyang Yang, Anwar Walid | 2018 | NeurIPS Workshop | N/A |
 | [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance](https://neurips.cc/virtual/2020/19841) | Xiao-Yang Liu, Hongyang Yang, Qian Chen, et al. | 2020 | NeurIPS Workshop | [GitHub](https://github.com/AI4Finance-Foundation/FinRL) |
+| [FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning](https://arxiv.org/abs/2211.03207) | Liu, X. Y., Xia, Z., Rui, J., Gao, J., Yang, H., Zhu, M., et al. | 2022 | NeurIPS | [GitHub](https://github.com/AI4Finance-Foundation/FinRL-Meta) |
 | [TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b8f6f7f2ba4137124ac976286eacb611-Abstract-Datasets_and_Benchmarks.html) | Shuo Sun, Molei Qin, Wentao Zhang, Haochong Xia, et al. | 2023 | NeurIPS | [GitHub](https://github.com/TradeMaster-NTU/TradeMaster) |
 
 ### ICML
