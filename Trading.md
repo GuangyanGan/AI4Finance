@@ -1,6 +1,6 @@
 # Algorithmic Trading & Execution Papers
 
-> A comprehensive collection of papers on algorithmic trading, order execution, market-making, and trading strategies from top machine learning and AI conferences, plus arXiv preprints.
+> A comprehensive collection of papers on  trading strategies from top machine learning and AI conferences, plus arXiv preprints.
 
 **Total Papers: 50+** | **Conference & arXiv Coverage** | **Last Updated: March 2026**
 
