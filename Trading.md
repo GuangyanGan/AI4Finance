@@ -10,14 +10,15 @@
 
 1. [NeurIPS](#1-neurips)
 2. [AAAI](#2-aaai)
-3. [IJCAI](#3-ijcai)
-4. [KDD](#4-kdd)
-5. [SIGIR](#5-sigir)
-6. [ACL](#6-acl)
-7. [EMNLP](#7-emnlp)
-8. [ACM ICAIF](#8-acm-icaif)
-9. [ACM Web Conference](#9-acm-web-conference)
-10. [arXiv Preprints & Recent Works](#10-arxiv-preprints--recent-works)
+3. [ICML](#3-icml)
+4. [IJCAI](#4-ijcai)
+5. [KDD](#5-kdd)
+6. [SIGIR](#6-sigir)
+7. [ACL](#7-acl)
+8. [EMNLP](#8-emnlp)
+9. [ACM ICAIF](#9-acm-icaif)
+10. [ACM Web Conference](#10-acm-web-conference)
+11. [arXiv Preprints & Recent Works](#11-arxiv-preprints--recent-works)
 
 ---
 
@@ -47,7 +48,17 @@
 
 ---
 
-## 3. IJCAI
+## 3. ICML
+
+| **Paper** | **Authors** | **Year** | **Link** | **Code** |
+|-----------|-------------|----------|---------|---------|
+| [Reinforcement Learning for Optimized Trade Execution](https://dl.acm.org/doi/10.1145/1143844.1143929) | Yuriy Nevmyvaka, Yi Feng, Michael Kearns | 2006 | ICML | N/A |
+| [LOB-Bench: Benchmarking Generative AI for Finance - an Application to Limit Order Book Data](https://proceedings.mlr.press/v267/nagy25a.html) | Peer Nagy, Sascha Yves Frey, Kang Li, Bidipta Sarkar, Svitlana Vyetrenko, Stefan Zohren, Ani Calinescu, Jakob Nicolaus Foerster | 2025 | ICML | [GitHub](https://github.com/peernagy/lob_bench) |
+| [Prices, Bids, Values: One ML-Powered Combinatorial Auction to Rule Them All](https://proceedings.mlr.press/v267/soumalias25a.html) | Ermis Soumalias, Jakob Heiss, Jakob Weissteiner, Sven Seuken | 2025 | ICML | [GitHub](https://github.com/marketdesignresearch/MLHCA) |
+
+---
+
+## 4. IJCAI
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -57,7 +68,7 @@
 
 ---
 
-## 4. KDD
+## 5. KDD
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -68,7 +79,7 @@
 
 ---
 
-## 5. SIGIR
+## 6. SIGIR
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -76,7 +87,7 @@
 
 ---
 
-## 6. ACL
+## 7. ACL
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -114,7 +125,7 @@
 
 ---
 
-## 10. arXiv Preprints & Recent Works
+## 11. arXiv Preprints & Recent Works
 
 ### LLM-Based Trading & Analysis
 
