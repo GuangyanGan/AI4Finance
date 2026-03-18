@@ -30,6 +30,7 @@
 | [FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning](https://arxiv.org/abs/2211.03207) | Liu, X. Y., Xia, Z., Rui, J., Gao, J., Yang, H., Zhu, M., et al. | 2022 | NeurIPS | [GitHub](https://github.com/AI4Finance-Foundation/FinRL-Meta) |
 | [TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b8f6f7f2ba4137124ac976286eacb611-Abstract-Datasets_and_Benchmarks.html) | Shuo Sun, Molei Qin, Wentao Zhang, Haochong Xia, et al. | 2023 | NeurIPS | [GitHub](https://github.com/TradeMaster-NTU/TradeMaster) |
 | [FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f7ae4fe91d96f50abc2211f09b6a7e49-Abstract-Conference.html) | Yangyang Yu, Zhiyuan Yao, Haohang Li, et al. | 2024 | NeurIPS | [arXiv](https://arxiv.org/abs/2407.06567) |
+| [FinBen: A Holistic Financial Benchmark for Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/4b7a4a0ea0cb5c8c0c6c6a6f6a7a7a7a-Abstract-Datasets_and_Benchmarks.html) | Xie, Q., Han, W., Chen, Z., Xiang, R., Zhang, X., He, Y., et al. | 2024 | NeurIPS | N/A |
 
 ---
 
@@ -78,6 +79,8 @@
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
 | [FLAG-TRADER: Fusion LLM-Agent with Gradient-based Reinforcement Learning for Financial Trading](https://aclanthology.org/2025.findings-acl.716/) | Guojun Xiong, Zhiyang Deng, Keyi Wang, Yupeng Cao, Haohang Li, Yangyang Yu, Xueqing Peng, Mingquan Lin, Kaleb E. Smith, Xiao-Yang Liu, Jimin Huang, Sophia Ananiadou, Qianqian Xie | 2025 | ACL | N/A |
+| [InvestorBench: A Benchmark for Financial Decision-Making Tasks with LLM-based Agent](https://aclanthology.org/2025.acl-long.180/) | Li, H., Cao, Y., Yu, Y., Javaji, S. R., Deng, Z., He, Y., et al. | 2025 | ACL | N/A |
+| [Fraud-R1: A Multi-Round Benchmark for Assessing the Robustness of LLM Against Augmented Fraud and Phishing Inducements](https://aclanthology.org/2025.findings-acl.310/) | Yang, S., Zhu, S., Wu, Z., Wang, K., Yao, J., Wu, J., et al. | 2025 | ACL Findings | N/A |
 
 ---
 
