@@ -58,20 +58,9 @@
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
-| [Deep Learning for Event-Driven Stock Prediction](https://www.ijcai.org/Proceedings/15/Papers/329.pdf) | — | 2015 | IJCAI | N/A |
-| [Robust Median Reversion Strategy for On-Line Portfolio Selection](https://www.ijcai.org/Proceedings/13/Papers/298.pdf) | Dingjiang Huang, Junlong Zhou, Bin Li, Steven CH Hoi, Shuigeng Zhou | 2013 | IJCAI | N/A |
-| [Modeling the Stock Relation with Graph Network](https://www.ijcai.org/proceedings/2020/0626.pdf) | — | 2020 | IJCAI | N/A |
-| [Multi-scale Two-way Deep Neural Network for Stock Trend Prediction](https://www.ijcai.org/proceedings/2020/0628.pdf) | — | 2020 | IJCAI | N/A |
-| [Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction](https://www.ijcai.org/proceedings/2020/0640.pdf) | — | 2020 | IJCAI | N/A |
 | [An End-to-End Optimal Trade Execution Framework Based on Proximal Policy Optimization](https://www.ijcai.org/proceedings/2020/0629.pdf) | Lin, S., Beling, P.A. | 2020 | IJCAI | N/A |
-| [Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction](https://www.ijcai.org/proceedings/2021/0508.pdf) | — | 2021 | IJCAI | N/A |
 | [StockFormer: Learning Hybrid Trading Machines with Predictive Coding](https://www.ijcai.org/proceedings/2023/0530.pdf) | — | 2023 | IJCAI | N/A |
 | [Trade When Opportunity Comes: Price Movement Forecasting via Locality-Aware Attention and Iterative Refinement Labeling](https://www.ijcai.org/proceedings/2024/0678.pdf) | — | 2024 | IJCAI | N/A |
-| [RSAP-DFM: Regime-Shifting Adaptive Posterior Dynamic Factor Model for Stock Returns Prediction](https://www.ijcai.org/proceedings/2024/0676.pdf) | — | 2024 | IJCAI | N/A |
-| [Enhancing Portfolio Optimization via Heuristic-Guided Inverse Reinforcement Learning](https://www.ijcai.org/proceedings/2025/1054.pdf) | — | 2025 | IJCAI | N/A |
-| [AlphaGAT: A Two-Stage Learning Approach for Adaptive Portfolio Selection](https://www.ijcai.org/proceedings/2025/0834.pdf) | — | 2025 | IJCAI | N/A |
-| [Asset Pricing with Contrastive Adversarial Variational Bayes](https://www.ijcai.org/proceedings/2025/0842.pdf) | — | 2025 | IJCAI | N/A |
-| [Multi-Scale Temporal Neural Network for Stock Trend Prediction Enhanced by Persistent Homology](https://www.ijcai.org/proceedings/2025/0364.pdf) | — | 2025 | IJCAI | N/A |
 
 ---
 
