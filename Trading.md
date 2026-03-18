@@ -113,33 +113,6 @@
 | [TradingAgents: Multi-Agent LLM Framework for Finance](https://zhuanlan.zhihu.com/p/1915184047216391305) | QuantML Community | 2025 | — | Zhihu |
 | [FinRobot: AI Agent for Equity Research and Valuation with Large Language Models](https://arxiv.org/abs/2411.08804) | T Zhou, P Wang, Y Wu, H Yang | 2024 | 2411.08804 | arXiv |
 
-### Market Microstructure & Execution
-
-| **Paper** | **Authors** | **Year** | **arXiv ID** | **Notes** |
-|-----------|-------------|----------|-------------|---------|
-| [Efficient Trading with Price Impact](https://arxiv.org/abs/2024) | X Brokmann et al. | 2024 | — | — |
-| [Dealing with Non-linear Price Impact Using Linear Strategies](https://arxiv.org/abs/2024) | X Brokmann, D Itkin, J Muhle-Karbe, P Schmidt | 2024 | — | — |
-| [Optimal Execution Under Deterministic Time-Varying Liquidity](https://arxiv.org/abs/2410.04867) | G Palmari, F Lillo, Z Eisler | 2024 | 2410.04867 | — |
-| [No Tick Too Small: Generic Approach to Model Small Tick Limit Order Books](https://arxiv.org/abs/2410.08744) | K Jain, JF Muzy, J Kochems, E Bacry | 2024 | 2410.08744 | UCL, Oxford |
-| [Multi-task Dynamic Pricing in Credit Markets with Contextual Information](https://arxiv.org/abs/2410.14839) | A Javanmard, J Ji, R Xu | 2024 | 2410.14839 | NYU, USC |
-| [Simulating and Analyzing Sparse Order Books: Applications in Intraday Power Markets](https://arxiv.org/abs/2410.06839) | P Bergault, E Cognéville | 2024 | 2410.06839 | Université Paris Dauphine, EDF |
-| [Impact of Liquidity on Spoofing Feasibility in Financial Markets](https://arxiv.org/abs/2024) | A Gu, Y Wang, C Mascioli, M Chakraborty, R Savani | 2024 | — | UMichigan, ULiverpool |
-
-### Volatility & Derivatives
-
-| **Paper** | **Authors** | **Year** | **arXiv ID** | **Notes** |
-|-----------|-------------|----------|-------------|---------|
-| [Accelerating Deep Hedging with Second-Order Optimization](https://arxiv.org/abs/2410.22568) | K Mueller, A Akkari, L Gonon, B Wood | 2024 | 2410.22568 | Imperial College, J.P. Morgan |
-| [Global Stock Market Volatility Prediction Using Graph Signal Processing](https://arxiv.org/abs/2410.22706) | Z Chi, J Gao, C Wang | 2024 | 2410.22706 | University of Sydney |
-
-### Trading Strategies & Patterns
-
-| **Paper** | **Authors** | **Year** | **arXiv ID** | **Notes** |
-|-----------|-------------|----------|-------------|---------|
-| [Statistical Arbitrage in Rank Space](https://arxiv.org/abs/2410.06568) | YF Li, G Papanicolaou | 2024 | 2410.06568 | — |
-| [Multi-frequency Trading Patterns Discovery via Deep Reinforcement Learning](https://arxiv.org/abs/2024) | — | 2024 | — | — |
-| [A Multimodal Foundation Agent for Financial Trading](https://dl.acm.org/doi/10.1145/3627673.3679731) | — | 2024 | — | ACM |
-
 ---
 
 ## 📊 Paper Distribution by Conference
