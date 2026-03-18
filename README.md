@@ -1,111 +1,67 @@
-# Awesome AI for Finance Papers 📊
+# AI4Fin - Algorithmic Trading & Execution Papers 📊
 
-> A comprehensive, curated collection of papers on **AI for Finance** from top machine learning and AI conferences worldwide.
-
----
-
-## 📚 Conferences & Workshops
-
-| Conference | Years | Papers | Status | Link |
-|-----------|-------|--------|--------|------|
-| **NeurIPS** | 1994–2025 | 55+ | ✅ Complete | [NIPS.md](./NIPS.md) |
-| **ICLR** | 2013–2025 | 22+ | ✅ Complete | [ICLR.md](./ICLR.md) |
-| **ICML** | 2020–2025 | 15+ | ✅ Complete | [ICML.md](./ICML.md) |
-| **AAAI** | 2020–2025 | 10+ | ✅ Complete | [AAAI.md](./AAAI.md) |
-| **IJCAI** | 2015–2025 | 18+ | ✅ Complete | [IJCAI.md](./IJCAI.md) |
-| **KDD** | 2015–2025 | 8+ | ✅ Complete | [KDD.md](./KDD.md) |
-| **WWW** | 2015–2025 | 10+ | ✅ Complete | [WWW.md](./WWW.md) |
-| **SIGIR** | 2015–2025 | 9+ | ✅ Complete | [SIGIR.md](./SIGIR.md) |
-| **EMNLP** | 2019–2025 | 16+ | ✅ Complete | [EMNLP.md](./EMNLP.md) |
+> A specialized collection of papers on **Algorithmic Trading, Order Execution, and Financial Trading** from top machine learning and AI conferences worldwide.
 
 ---
 
-## 🎯 Specialized Topics
+## 📚 Repository Contents
 
-| Topic | Coverage | Status | Link |
-|-------|----------|--------|------|
-| **Algorithmic Trading & Execution** | 1998–2025 | ✅ Complete | [TRADING.md](./TRADING.md) |
+This repository focuses specifically on:
 
----
-
-## 📊 Summary Statistics
-
-| Venue | Years | # Papers | Status |
-|-------|-------|----------|--------|
-| NeurIPS Main | 1994–2025 | 43 | ✅ |
-| NeurIPS Workshop | 2020, 2025 | 12 | ✅ |
-| ICLR Main | 2013–2025 | 22 | ✅ |
-| ICLR Workshop | 2025 | 60+ | ✅ |
-| ICML | 2020–2025 | 15 | ✅ |
-| AAAI | 2020–2025 | 10 | ✅ |
-| IJCAI | 2015–2025 | 18 | ✅ |
-| KDD | 2015–2025 | 8 | ✅ |
-| WWW | 2015–2025 | 10 | ✅ |
-| SIGIR | 2015–2025 | 9 | ✅ |
-| EMNLP | 2019–2025 | 16 | ✅ |
-| **Total** | | **223+** | |
+- **Algorithmic Trading Strategies** — RL for trading, quantitative trading, LLM-based trading agents
+- **Order Execution & Optimal Execution** — Market-making, execution algorithms, price impact
+- **Portfolio Management & Optimization** — Online portfolio selection, deep RL for portfolio management
+- **Market Prediction & Signal Generation** — Stock price prediction, trading signal detection
+- **Financial NLP & LLMs** — LLM-based financial analysis, sentiment analysis for trading
+- **Multi-Agent Trading Systems** — Cooperative and competitive trading agents
+- **Machine Learning in Trading** — Time series forecasting, neural networks for financial markets
 
 ---
 
-## 🎯 Key Research Areas
+## 📄 Main Content
 
-Papers organized by application domain across all conferences:
+### [TRADING.md](./TRADING.md)
 
-- **Portfolio Optimization & Asset Allocation** — Optimal portfolio construction, risk-return tradeoffs
-- **Algorithmic Trading & Market Prediction** — Trading strategies, price forecasting, signal generation
-- **Risk Management & Credit Scoring** — Risk assessment, default prediction, credit evaluation
-- **Fraud Detection & AML** — Anomaly detection, money laundering prevention
-- **Financial NLP & LLMs** — Sentiment analysis, earnings calls, financial text understanding
-- **Causal Inference & Econometrics** — Causal relationships, market mechanisms
-- **Cryptocurrency & Blockchain** — Bitcoin, DeFi, blockchain analysis
-- **Financial Forecasting & Time Series** — Stock prediction, economic forecasting
+A comprehensive collection of **42+ papers** from top CCF-A/B level conferences covering algorithmic trading and execution:
 
----
-
-## 🚀 How to Use This Repository
-
-1. **Browse by Conference**: Click on a conference link (NIPS.md, ICLR.md, etc.) to see all papers
-2. **Quick Stats**: Check the summary table above for paper counts
-3. **By Application**: Each conference file is organized by research topic
-4. **Find Code**: Papers with available code are marked with links
+| Conference | Papers | Years |
+|-----------|--------|-------|
+| **NeurIPS** | 8 | 1996-2024 |
+| **ICML** | 7 | 2014-2025 |
+| **ICLR** | 3 | 2015-2025 |
+| **IJCAI** | 5 | 2013-2025 |
+| **AAAI** | 11 | 2017-2024 |
+| **KDD** | 5 | 2017-2024 |
+| **ACL** | 1 | 2025 |
+| **EMNLP** | 1 | 2024 |
+| **CIKM** | 1 | 2019 |
+| **Total** | **42+** | 1996-2025 |
 
 ---
 
-## 🤝 Contributing
+## 📖 How to Use
 
-**Found papers we missed?** We welcome pull requests!
-
-### Adding Papers
-
-Format for each paper:
-```markdown
-| [Paper Title](link) | Authors | Year | [Code](link) or N/A |
-```
-
-Steps:
-1. Fork the repo
-2. Add papers to the appropriate conference file
-3. Organize by topic category
-4. Submit a PR with details
-
-### Adding Conferences
-
-Want to add a new conference (e.g., ICML, AAAI)?
-- Create a new file: `CONFERENCE.md`
-- Follow the structure from existing files
-- Update this README with links
+1. **Open [TRADING.md](./TRADING.md)** - All trading and execution papers are organized by topic
+2. **Search by Conference** - Find papers from your preferred venue (NeurIPS, ICML, IJCAI, AAAI, etc.)
+3. **Browse by Topic** - Papers are categorized by research area (RL, Portfolio Optimization, etc.)
+4. **Find Code** - Papers with available code/implementations are marked with links
 
 ---
 
-## 📖 Conference Resources
+## 🔗 Related Resources
 
-- **NeurIPS**: [proceedings.neurips.cc](https://proceedings.neurips.cc)
-- **ICLR**: [proceedings.iclr.cc](https://proceedings.iclr.cc)
-- **ICML**: [proceedings.mlr.press](https://proceedings.mlr.press)
-- **AAAI**: [aaai.org](https://www.aaai.org)
-- **IJCAI**: [ijcai.org](https://www.ijcai.org)
-- **KDD**: [kdd.org](https://www.kdd.org)
-- **WWW**: [thewebconf.org](https://www.thewebconf.org)
+- **Other Conference Papers**: See [AI4Finance](https://github.com/GuangyanGan/AI4Finance) for papers on other AI for Finance topics
+- **All Conference Papers**: Visit [AI4Fin-papers](https://github.com/GuangyanGan/AI4Fin-papers) for the full collection of finance papers
+
+---
+
+## 🎯 Key Features
+
+- ✅ **Comprehensive** — 40+ papers from top conferences covering 1996-2025
+- ✅ **Organized** — Papers sorted by conference and research topic
+- ✅ **Curated** — Focus on algorithmic trading and execution specifically
+- ✅ **Updated** — Latest papers from 2025 included
+- ✅ **Actionable** — Links to papers, code, and arXiv preprints
 
 ---
 
@@ -114,29 +70,35 @@ Want to add a new conference (e.g., ICML, AAAI)?
 If you find this resource useful, please cite:
 
 ```bibtex
-@misc{AI4Finance,
-  title={Awesome AI for Finance Papers},
-  author={},
+@misc{AI4FinTrading,
+  title={AI4Fin: Algorithmic Trading & Execution Papers},
+  author={GuangyanGan},
   year={2026},
-  howpublished={\url{https://github.com/GuangyanGan/AI4Finance}},
+  howpublished={\url{https://github.com/GuangyanGan/AI4Fin}},
 }
 ```
 
 ---
 
-## 📄 License
+## 🤝 Contributing
 
-This project is open source. See [LICENSE](LICENSE) for details.
+Found a trading-related paper we missed? Please contribute!
+
+Steps:
+1. Fork the repo
+2. Add papers to [TRADING.md](./TRADING.md)
+3. Include: title, authors, year, conference, link
+4. Submit a PR with details
 
 ---
 
 ## 📞 Contact & Feedback
 
-- **Issues**: Found outdated papers or broken links? [Create an issue](https://github.com/GuangyanGan/AI4Finance/issues)
-- **Discussions**: Have suggestions? [Start a discussion](https://github.com/GuangyanGan/AI4Finance/discussions)
+- **Issues**: Report broken links or outdated papers [here](https://github.com/GuangyanGan/AI4Fin/issues)
+- **Discussions**: Share suggestions [here](https://github.com/GuangyanGan/AI4Fin/discussions)
 
 ---
 
 *Last updated: March 2026*
 
-**Status**: 🟢 137+ papers across 2 conferences, more coming soon!
+**Status**: 🟢 42+ papers on algorithmic trading & execution from top conferences
