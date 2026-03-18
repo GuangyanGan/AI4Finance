@@ -25,7 +25,10 @@
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
+| [Optimal Asset Allocation Using Adaptive Dynamic Programming](https://proceedings.neurips.cc/paper/1996/hash/f26b8f23f6e038a30ec5e77e9fc07b13-Abstract.html) | Neuneier, R. | 1996 | NeurIPS | N/A |
 | [Reinforcement Learning for Trading](https://proceedings.neurips.cc/paper/1998/hash/4e6cd95227cb0c280e99a195be5f6615-Abstract.html) | John Moody, Matthew Saffell | 1998 | NeurIPS | N/A |
+| [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://proceedings.neurips.cc/paper/2000/hash/f2577d4d3d85b4b2b52b0abebb14325a-Abstract.html) | Sutton, R.S., McAllester, D.A., Singh, S.P., Mansour, Y. | 2000 | NeurIPS | N/A |
+| [Practical Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/abs/1811.07522) | Zhuoran Xiong, Xiao-Yang Liu, Shan Zhong, Hongyang Yang, Anwar Walid | 2018 | NeurIPS Workshop | N/A |
 | [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance](https://neurips.cc/virtual/2020/19841) | Xiao-Yang Liu, Hongyang Yang, Qian Chen, et al. | 2020 | NeurIPS Workshop | [GitHub](https://github.com/AI4Finance-Foundation/FinRL) |
 | [TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b8f6f7f2ba4137124ac976286eacb611-Abstract-Datasets_and_Benchmarks.html) | Shuo Sun, Molei Qin, Wentao Zhang, Haochong Xia, et al. | 2023 | NeurIPS | [GitHub](https://github.com/TradeMaster-NTU/TradeMaster) |
 
@@ -33,12 +36,17 @@
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
+| [Deterministic Policy Gradient Algorithms](https://proceedings.mlr.press/v32/silver14.html) | Silver, D., Lever, G., Heess, N., Degris, T., Wierstra, D., Riedmiller, M. | 2014 | ICML | N/A |
+| [Gated Feedback Recurrent Neural Networks](https://proceedings.mlr.press/v37/chung15.html) | Chung, J., Gulcehre, C., Cho, K., Bengio, Y. | 2015 | ICML | N/A |
+| [A Distributional Perspective on Reinforcement Learning](https://proceedings.mlr.press/v70/bellemare17a.html) | Bellemare, M.G., Dabney, W., Munos, R. | 2017 | ICML | N/A |
+| [Context-Aware Dynamics Model for Generalization in Model-Based Reinforcement Learning](https://proceedings.mlr.press/v139/lee21b.html) | Lee, K., Seo, Y., Lee, S., Lee, H., Shin, J. | 2020 | ICML | N/A |
 | [Maximum Entropy Reinforcement Learning with Diffusion Policy](https://icml.cc/virtual/2025/papers.html) | — | 2025 | ICML | N/A |
 
 ### ICLR
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
+| [Continuous Control with Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971) | Lillicrap, T.P., Hunt, J.J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., Silver, D., Wierstra, D. | 2015 | ICLR | N/A |
 | [OPAL: Offline Primitive Discovery for Accelerating Offline Reinforcement Learning](https://dblp.org/rec/conf/iclr/AjayKALN21.html) | — | 2021 | ICLR | N/A |
 | [Advancing Algorithmic Trading with Large Language Models](https://openreview.net/pdf?id=w7BGq6ozOL) | — | 2025 | ICLR | N/A |
 
@@ -50,7 +58,14 @@
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
-| [Universal Trading for Order Execution with Oracle Policy Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/17358) | — | 2021 | AAAI | N/A |
+| [Playing FPS Games with Deep Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/10716) | Lample, G., Chaplot, D.S. | 2017 | AAAI | N/A |
+| [Action Branching Architectures for Deep Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/11916) | Tavakoli, A., Pardo, F., Kormushev, P. | 2018 | AAAI | N/A |
+| [Adaptive Quantitative Trading: An Imitative Deep Reinforcement Learning Approach](https://ojs.aaai.org/index.php/AAAI/article/view/5587) | Yang Liu, Qi Liu, Hongke Zhao, Zhen Pan, Chuanren Liu | 2020 | AAAI | N/A |
+| [Reinforcement-Learning Based Portfolio Management with Augmented Asset Movement Prediction States](https://ojs.aaai.org/index.php/AAAI/article/view/5376) | Ye, Y., Pei, H., Wang, B., Chen, P.Y., Zhu, Y., Xiao, J., Li, B. | 2020 | AAAI | N/A |
+| [Universal Trading for Order Execution with Oracle Policy Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/17358) | Fang, Y., Ren, K., Liu, W., Zhou, D., Zhang, W., Bian, J., Yu, Y., Liu, T.Y. | 2021 | AAAI | N/A |
+| [DeepTrader: A Deep Reinforcement Learning Approach for Risk-Return Balanced Portfolio Management with Market Conditions Embedding](https://ojs.aaai.org/index.php/AAAI/article/view/17283) | Wang, Z., Huang, B., Tu, S., Zhang, K., Xu, L. | 2021 | AAAI | N/A |
+| [Commission Fee is Not Enough: A Hierarchical Reinforced Framework for Portfolio Management](https://ojs.aaai.org/index.php/AAAI/article/view/16570) | Wang, R., Wei, H., An, B., Feng, Z., Yao, J. | 2021 | AAAI | N/A |
+| [Earnhft: Efficient Hierarchical Reinforcement Learning for High Frequency Trading](https://ojs.aaai.org/index.php/AAAI/article/view/29384) | Molei Qin, Shuo Sun, Wentao Zhang, Haochong Xia, Xinrun Wang, Bo An | 2024 | AAAI | N/A |
 
 ### arXiv
 
@@ -68,9 +83,12 @@
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
+| [Robust Median Reversion Strategy for On-Line Portfolio Selection](https://www.ijcai.org/Proceedings/13/Papers/298.pdf) | Dingjiang Huang, Junlong Zhou, Bin Li, Steven CH Hoi, Shuigeng Zhou | 2013 | IJCAI | N/A |
+| [An End-to-End Optimal Trade Execution Framework Based on Proximal Policy Optimization](https://www.ijcai.org/proceedings/2020/0629.pdf) | Lin, S., Beling, P.A. | 2020 | IJCAI | N/A |
 | [StockFormer: Learning Hybrid Trading Machines with Predictive Coding](https://www.ijcai.org/proceedings/2023/0530.pdf) | — | 2023 | IJCAI | N/A |
 | [Enhancing Portfolio Optimization via Heuristic-Guided Inverse Reinforcement Learning](https://www.ijcai.org/proceedings/2025/1054.pdf) | — | 2025 | IJCAI | N/A |
 | [AlphaGAT: A Two-Stage Learning Approach for Adaptive Portfolio Selection](https://www.ijcai.org/proceedings/2025/0834.pdf) | — | 2025 | IJCAI | N/A |
+| [Asset Pricing with Contrastive Adversarial Variational Bayes](https://www.ijcai.org/proceedings/2025/0842.pdf) | — | 2025 | IJCAI | N/A |
 
 ### ICML
 
@@ -86,8 +104,12 @@
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
-| [Investor-Imitator: A Framework for Trading Knowledge Extraction](https://www.kdd.org/kdd2018/accepted-papers/view/investor-imitator-a-framework-for-trading-knowledge-extraction) | — | 2018 | KDD | N/A |
 | [A Data Mining Framework for Valuing Large Portfolios of Variable Annuities](https://www.kdd.org/kdd2017/papers/view/a-data-mining-framework-for-valuing-large-portfolios-of-variable-annuities) | — | 2017 | KDD | N/A |
+| [Investor-Imitator: A Framework for Trading Knowledge Extraction](https://www.kdd.org/kdd2018/accepted-papers/view/investor-imitator-a-framework-for-trading-knowledge-extraction) | Ding, Y., Liu, W., Bian, J., Zhang, D., Liu, T.Y. | 2018 | KDD | N/A |
+| [Multilevel Wavelet Decomposition Network for Interpretable Time Series Analysis](https://www.kdd.org/kdd2018/accepted-papers/view/multilevel-wavelet-decomposition-network-for-interpretable-time-series-analysis) | Wang, J., Wang, Z., Li, J., Wu, J. | 2018 | KDD | N/A |
+| [Alphastock: A Buying-Winners-and-Selling-Losers Investment Strategy Using Interpretable Deep Reinforcement Attention Networks](https://www.kdd.org/kdd2019/accepted-papers/view/alphastock-a-buying-winners-and-selling-losers-investment-strategy-using-inter) | Wang, J., Zhang, Y., Tang, K., Wu, J., Xiong, Z. | 2019 | KDD | N/A |
+| [A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist](https://doi.org/10.1145/3637528.3671801) | Wentao Zhang, Lingxuan Zhao, Haochong Xia, Shuo Sun, Jiaze Sun, Molei Qin, Xinyi Li, Yuqing Zhao, Yilei Zhao, Xinyu Cai, Longtao Zheng, Xinrun Wang, Bo An | 2024 | KDD | N/A |
+| [Tracking the Dynamics in Crowdfunding](https://www.kdd.org/kdd2017/papers/view/tracking-the-dynamics-in-crowdfunding) | Zhao, H., Zhang, H., Ge, Y., Liu, Q., Chen, E., Li, H., Wu, L. | 2017 | KDD | N/A |
 
 ### arXiv
 
@@ -115,6 +137,7 @@
 |-----------|-------------|----------|---------|---------|
 | [CausalStock: Deep End-to-end Causal Discovery for News-driven Multi-stock Movement Prediction](https://proceedings.neurips.cc/paper_files/paper/2024/hash/54d689d58fe54c92aee2d732fc49fca8-Abstract-Conference.html) | Shuqi Li, Yuebo Sun, et al. | 2024 | NeurIPS | [arXiv](https://arxiv.org/abs/2411.06391) |
 | [From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6aef8bffb372096ee73d98da30119f89-Abstract-Conference.html) | Xinlei Wang, Maike Feng, Junhua Zhao, Jinjin Gu, et al. | 2024 | NeurIPS | [Code](https://github.com/ameliawong1996/From_News_to_Forecast) |
+| [FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f7ae4fe91d96f50abc2211f09b6a7e49-Abstract-Conference.html) | Yangyang Yu, Zhiyuan Yao, Haohang Li, et al. | 2024 | NeurIPS | [arXiv](https://arxiv.org/abs/2407.06567) |
 
 ### AAAI
 
@@ -189,7 +212,29 @@
 
 ---
 
-## 8. arXiv Preprints & Recent Works
+## 8. Other Top Conferences
+
+### ACL (Association for Computational Linguistics)
+
+| **Paper** | **Authors** | **Year** | **Link** | **Code** |
+|-----------|-------------|----------|---------|---------|
+| [FLAG-TRADER: Fusion LLM-Agent with Gradient-based Reinforcement Learning for Financial Trading](https://aclanthology.org/2025.findings-acl.716/) | Guojun Xiong, Zhiyang Deng, Keyi Wang, Yupeng Cao, Haohang Li, Yangyang Yu, Xueqing Peng, Mingquan Lin, Kaleb E. Smith, Xiao-Yang Liu, Jimin Huang, Sophia Ananiadou, Qianqian Xie | 2025 | ACL | N/A |
+
+### EMNLP (Empirical Methods in Natural Language Processing)
+
+| **Paper** | **Authors** | **Year** | **Link** | **Code** |
+|-----------|-------------|----------|---------|---------|
+| [CryptoTrade: A Reflective LLM-Based Agent to Guide Zero-Shot Cryptocurrency Trading](https://aclanthology.org/2024.emnlp-main.75/) | Yuan Li, Bingqiao Luo, Qian Wang, Nuo Chen, Xu Liu, Bingsheng He | 2024 | EMNLP | N/A |
+
+### ACM CIKM
+
+| **Paper** | **Authors** | **Year** | **Link** | **Code** |
+|-----------|-------------|----------|---------|---------|
+| [A Multi-Scale Temporal Feature Aggregation Convolutional Neural Network for Portfolio Management](https://dl.acm.org/doi/10.1145/3219819.3220057) | Si Shi, Jianjun Li, Guohui Li, Peng Pan | 2019 | CIKM | N/A |
+
+---
+
+## 9. arXiv Preprints & Recent Works
 
 ### LLM-Based Trading & Analysis
 
