@@ -163,8 +163,6 @@
 
 | **Paper** | **Authors** | **Year** | **arXiv ID** | **Notes** |
 |-----------|-------------|----------|-------------|---------|
-| [Deep Learning Interpretability for Rough Volatility](https://arxiv.org/abs/2411.19317) | B Yuan et al. | 2024 | 2411.19317 | Cambridge, Imperial College |
-| [Stable Multilevel Deep Neural Networks for Option Pricing and xVAs Using FBSDEs](https://arxiv.org/abs/2024) | A Ashok Naarayan, P Parpas | 2024 | — | Imperial College |
 | [Accelerating Deep Hedging with Second-Order Optimization](https://arxiv.org/abs/2410.22568) | K Mueller, A Akkari, L Gonon, B Wood | 2024 | 2410.22568 | Imperial College, J.P. Morgan |
 | [Global Stock Market Volatility Prediction Using Graph Signal Processing](https://arxiv.org/abs/2410.22706) | Z Chi, J Gao, C Wang | 2024 | 2410.22706 | University of Sydney |
 
