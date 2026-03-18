@@ -9,17 +9,16 @@
 ## 📑 Table of Contents
 
 1. [NeurIPS](#1-neurips)
-2. [ICML](#2-icml)
-3. [ICLR](#3-iclr)
-4. [AAAI](#4-aaai)
-5. [IJCAI](#5-ijcai)
-6. [KDD](#6-kdd)
-7. [SIGIR](#7-sigir)
-8. [ACL](#8-acl)
-9. [EMNLP](#9-emnlp)
-10. [ACM ICAIF](#10-acm-icaif)
-11. [ACM CIKM](#11-acm-cikm)
-12. [arXiv Preprints & Recent Works](#12-arxiv-preprints--recent-works)
+2. [ICLR](#2-iclr)
+3. [AAAI](#3-aaai)
+4. [IJCAI](#4-ijcai)
+5. [KDD](#5-kdd)
+6. [SIGIR](#6-sigir)
+7. [ACL](#7-acl)
+8. [EMNLP](#8-emnlp)
+9. [ACM ICAIF](#9-acm-icaif)
+10. [ACM CIKM](#10-acm-cikm)
+11. [arXiv Preprints & Recent Works](#11-arxiv-preprints--recent-works)
 
 ---
 
@@ -30,30 +29,13 @@
 | [Reinforcement Learning for Trading](https://proceedings.neurips.cc/paper/1998/hash/4e6cd95227cb0c280e99a195be5f6615-Abstract.html) | John Moody, Matthew Saffell | 1998 | NeurIPS | N/A |
 | [Practical Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/abs/1811.07522) | Zhuoran Xiong, Xiao-Yang Liu, Shan Zhong, Hongyang Yang, Anwar Walid | 2018 | NeurIPS Workshop | N/A |
 | [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance](https://neurips.cc/virtual/2020/19841) | Xiao-Yang Liu, Hongyang Yang, Qian Chen, et al. | 2020 | NeurIPS Workshop | [GitHub](https://github.com/AI4Finance-Foundation/FinRL) |
-| [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://proceedings.neurips.cc/paper_files/paper/2021/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html) | Haixu Wu, Jiehui Xu, Jianmin Wang, Mingsheng Long | 2021 | NeurIPS | N/A |
 | [FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning](https://arxiv.org/abs/2211.03207) | Liu, X. Y., Xia, Z., Rui, J., Gao, J., Yang, H., Zhu, M., et al. | 2022 | NeurIPS | [GitHub](https://github.com/AI4Finance-Foundation/FinRL-Meta) |
 | [TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b8f6f7f2ba4137124ac976286eacb611-Abstract-Datasets_and_Benchmarks.html) | Shuo Sun, Molei Qin, Wentao Zhang, Haochong Xia, et al. | 2023 | NeurIPS | [GitHub](https://github.com/TradeMaster-NTU/TradeMaster) |
-| [CausalStock: Deep End-to-end Causal Discovery for News-driven Multi-stock Movement Prediction](https://proceedings.neurips.cc/paper_files/paper/2024/hash/54d689d58fe54c92aee2d732fc49fca8-Abstract-Conference.html) | Shuqi Li, Yuebo Sun, et al. | 2024 | NeurIPS | [arXiv](https://arxiv.org/abs/2411.06391) |
-| [From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6aef8bffb372096ee73d98da30119f89-Abstract-Conference.html) | Xinlei Wang, Maike Feng, Junhua Zhao, Jinjin Gu, et al. | 2024 | NeurIPS | [Code](https://github.com/ameliawong1996/From_News_to_Forecast) |
 | [FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f7ae4fe91d96f50abc2211f09b6a7e49-Abstract-Conference.html) | Yangyang Yu, Zhiyuan Yao, Haohang Li, et al. | 2024 | NeurIPS | [arXiv](https://arxiv.org/abs/2407.06567) |
 
 ---
 
-## 2. ICML
-
-| **Paper** | **Authors** | **Year** | **Link** | **Code** |
-|-----------|-------------|----------|---------|---------|
-| [Long-and Short-Term Forecasting for Portfolio Selection with Transaction Costs](http://proceedings.mlr.press/v108/uziel20a/uziel20a.pdf) | Uziel & El-Yaniv | 2020 | ICML | N/A |
-| [Open Problem: Fast and Optimal Online Portfolio Selection](https://proceedings.mlr.press/v125/van-erven20a.html) | Van Erven et al. | 2020 | ICML | N/A |
-| [Damped Online Newton Step for Portfolio Selection](https://proceedings.mlr.press/v178/mhammedi22b/mhammedi22b.pdf) | Mhammedi et al. | 2022 | ICML | N/A |
-| [Timer: Generative Pre-trained Transformers are Large Time Series Models](https://arxiv.org/abs/2402.02368) | — | 2024 | ICML | N/A |
-| [Conformal Prediction for Reliable Stock Selections](https://proceedings.mlr.press/v266/kaya25a.html) | Kaya & Nguyen | 2025 | ICML | N/A |
-| [Data Dependent Regret Bounds for Online Portfolio Selection with Predicted Returns](https://proceedings.mlr.press/v272/putta25a.html) | Putta & Agrawal | 2025 | ICML | N/A |
-| [Sundial: A Family of Highly Capable Time Series Foundation Models](https://icml.cc/virtual/2025/papers.html) | — | 2025 | ICML | N/A |
-
----
-
-## 3. ICLR
+## 2. ICLR
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -61,24 +43,18 @@
 
 ---
 
-## 4. AAAI
+## 3. AAAI
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
-| [Playing FPS Games with Deep Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/10716) | Lample, G., Chaplot, D.S. | 2017 | AAAI | N/A |
-| [Action Branching Architectures for Deep Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/11916) | Tavakoli, A., Pardo, F., Kormushev, P. | 2018 | AAAI | N/A |
 | [Adaptive Quantitative Trading: An Imitative Deep Reinforcement Learning Approach](https://ojs.aaai.org/index.php/AAAI/article/view/5587) | Yang Liu, Qi Liu, Hongke Zhao, Zhen Pan, Chuanren Liu | 2020 | AAAI | N/A |
-| [Reinforcement-Learning Based Portfolio Management with Augmented Asset Movement Prediction States](https://ojs.aaai.org/index.php/AAAI/article/view/5376) | Ye, Y., Pei, H., Wang, B., Chen, P.Y., Zhu, Y., Xiao, J., Li, B. | 2020 | AAAI | N/A |
-| [Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks](https://ojs.aaai.org/index.php/AAAI/article/view/16077) | — | 2021 | AAAI | N/A |
 | [Universal Trading for Order Execution with Oracle Policy Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/17358) | Fang, Y., Ren, K., Liu, W., Zhou, D., Zhang, W., Bian, J., Yu, Y., Liu, T.Y. | 2021 | AAAI | N/A |
 | [DeepTrader: A Deep Reinforcement Learning Approach for Risk-Return Balanced Portfolio Management with Market Conditions Embedding](https://ojs.aaai.org/index.php/AAAI/article/view/17283) | Wang, Z., Huang, B., Tu, S., Zhang, K., Xu, L. | 2021 | AAAI | N/A |
-| [Commission Fee is Not Enough: A Hierarchical Reinforced Framework for Portfolio Management](https://ojs.aaai.org/index.php/AAAI/article/view/16570) | Wang, R., Wei, H., An, B., Feng, Z., Yao, J. | 2021 | AAAI | N/A |
-| [MASTER: Market-Guided Stock Transformer for Stock Price Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/29483) | — | 2024 | AAAI | N/A |
 | [Earnhft: Efficient Hierarchical Reinforcement Learning for High Frequency Trading](https://ojs.aaai.org/index.php/AAAI/article/view/29384) | Molei Qin, Shuo Sun, Wentao Zhang, Haochong Xia, Xinrun Wang, Bo An | 2024 | AAAI | N/A |
 
 ---
 
-## 5. IJCAI
+## 4. IJCAI
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -99,7 +75,7 @@
 
 ---
 
-## 6. KDD
+## 5. KDD
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -113,7 +89,7 @@
 
 ---
 
-## 7. SIGIR
+## 6. SIGIR
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -122,7 +98,7 @@
 
 ---
 
-## 8. ACL
+## 7. ACL
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -130,7 +106,7 @@
 
 ---
 
-## 9. EMNLP
+## 8. EMNLP
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -138,7 +114,7 @@
 
 ---
 
-## 10. ACM ICAIF
+## 9. ACM ICAIF
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -148,7 +124,7 @@
 
 ---
 
-## 11. ACM CIKM
+## 10. ACM CIKM
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -156,7 +132,7 @@
 
 ---
 
-## 12. arXiv Preprints & Recent Works
+## 11. arXiv Preprints & Recent Works
 
 ### LLM-Based Trading & Analysis
 
