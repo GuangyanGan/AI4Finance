@@ -8,35 +8,52 @@
 
 ## 📑 Table of Contents
 
-1. [Reinforcement Learning for Trading](#1-reinforcement-learning-for-trading)
-2. [Order Execution & Optimal Execution](#2-order-execution--optimal-execution)
-3. [Trading Strategy & Portfolio Management](#3-trading-strategy--portfolio-management)
-4. [Market Prediction & Signal Generation](#4-market-prediction--signal-generation)
-5. [Multi-Agent Trading Systems](#5-multi-agent-trading-systems)
-6. [Machine Learning in Trading](#6-machine-learning-in-trading)
-7. [Neural Networks for Trading](#7-neural-networks-for-trading)
-8. [arXiv Preprints & Recent Works](#8-arxiv-preprints--recent-works)
+1. [NeurIPS](#1-neurips)
+2. [ICML](#2-icml)
+3. [ICLR](#3-iclr)
+4. [AAAI](#4-aaai)
+5. [IJCAI](#5-ijcai)
+6. [KDD](#6-kdd)
+7. [SIGIR](#7-sigir)
+8. [ACL](#8-acl)
+9. [EMNLP](#9-emnlp)
+10. [ACM ICAIF](#10-acm-icaif)
+11. [ACM CIKM](#11-acm-cikm)
+12. [arXiv Preprints & Recent Works](#12-arxiv-preprints--recent-works)
 
 ---
 
-## 1. Reinforcement Learning for Trading
-
-### NeurIPS
+## 1. NeurIPS
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
 | [Reinforcement Learning for Trading](https://proceedings.neurips.cc/paper/1998/hash/4e6cd95227cb0c280e99a195be5f6615-Abstract.html) | John Moody, Matthew Saffell | 1998 | NeurIPS | N/A |
 | [Practical Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/abs/1811.07522) | Zhuoran Xiong, Xiao-Yang Liu, Shan Zhong, Hongyang Yang, Anwar Walid | 2018 | NeurIPS Workshop | N/A |
 | [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance](https://neurips.cc/virtual/2020/19841) | Xiao-Yang Liu, Hongyang Yang, Qian Chen, et al. | 2020 | NeurIPS Workshop | [GitHub](https://github.com/AI4Finance-Foundation/FinRL) |
+| [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://proceedings.neurips.cc/paper_files/paper/2021/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html) | Haixu Wu, Jiehui Xu, Jianmin Wang, Mingsheng Long | 2021 | NeurIPS | N/A |
 | [FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning](https://arxiv.org/abs/2211.03207) | Liu, X. Y., Xia, Z., Rui, J., Gao, J., Yang, H., Zhu, M., et al. | 2022 | NeurIPS | [GitHub](https://github.com/AI4Finance-Foundation/FinRL-Meta) |
 | [TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b8f6f7f2ba4137124ac976286eacb611-Abstract-Datasets_and_Benchmarks.html) | Shuo Sun, Molei Qin, Wentao Zhang, Haochong Xia, et al. | 2023 | NeurIPS | [GitHub](https://github.com/TradeMaster-NTU/TradeMaster) |
+| [CausalStock: Deep End-to-end Causal Discovery for News-driven Multi-stock Movement Prediction](https://proceedings.neurips.cc/paper_files/paper/2024/hash/54d689d58fe54c92aee2d732fc49fca8-Abstract-Conference.html) | Shuqi Li, Yuebo Sun, et al. | 2024 | NeurIPS | [arXiv](https://arxiv.org/abs/2411.06391) |
+| [From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6aef8bffb372096ee73d98da30119f89-Abstract-Conference.html) | Xinlei Wang, Maike Feng, Junhua Zhao, Jinjin Gu, et al. | 2024 | NeurIPS | [Code](https://github.com/ameliawong1996/From_News_to_Forecast) |
+| [FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f7ae4fe91d96f50abc2211f09b6a7e49-Abstract-Conference.html) | Yangyang Yu, Zhiyuan Yao, Haohang Li, et al. | 2024 | NeurIPS | [arXiv](https://arxiv.org/abs/2407.06567) |
 
-### ICML
+---
+
+## 2. ICML
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
+| [Long-and Short-Term Forecasting for Portfolio Selection with Transaction Costs](http://proceedings.mlr.press/v108/uziel20a/uziel20a.pdf) | Uziel & El-Yaniv | 2020 | ICML | N/A |
+| [Open Problem: Fast and Optimal Online Portfolio Selection](https://proceedings.mlr.press/v125/van-erven20a.html) | Van Erven et al. | 2020 | ICML | N/A |
+| [Damped Online Newton Step for Portfolio Selection](https://proceedings.mlr.press/v178/mhammedi22b/mhammedi22b.pdf) | Mhammedi et al. | 2022 | ICML | N/A |
+| [Timer: Generative Pre-trained Transformers are Large Time Series Models](https://arxiv.org/abs/2402.02368) | — | 2024 | ICML | N/A |
+| [Conformal Prediction for Reliable Stock Selections](https://proceedings.mlr.press/v266/kaya25a.html) | Kaya & Nguyen | 2025 | ICML | N/A |
+| [Data Dependent Regret Bounds for Online Portfolio Selection with Predicted Returns](https://proceedings.mlr.press/v272/putta25a.html) | Putta & Agrawal | 2025 | ICML | N/A |
+| [Sundial: A Family of Highly Capable Time Series Foundation Models](https://icml.cc/virtual/2025/papers.html) | — | 2025 | ICML | N/A |
 
-### ICLR
+---
+
+## 3. ICLR
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -44,9 +61,7 @@
 
 ---
 
-## 2. Order Execution & Optimal Execution
-
-### AAAI
+## 4. AAAI
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -54,45 +69,37 @@
 | [Action Branching Architectures for Deep Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/11916) | Tavakoli, A., Pardo, F., Kormushev, P. | 2018 | AAAI | N/A |
 | [Adaptive Quantitative Trading: An Imitative Deep Reinforcement Learning Approach](https://ojs.aaai.org/index.php/AAAI/article/view/5587) | Yang Liu, Qi Liu, Hongke Zhao, Zhen Pan, Chuanren Liu | 2020 | AAAI | N/A |
 | [Reinforcement-Learning Based Portfolio Management with Augmented Asset Movement Prediction States](https://ojs.aaai.org/index.php/AAAI/article/view/5376) | Ye, Y., Pei, H., Wang, B., Chen, P.Y., Zhu, Y., Xiao, J., Li, B. | 2020 | AAAI | N/A |
+| [Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks](https://ojs.aaai.org/index.php/AAAI/article/view/16077) | — | 2021 | AAAI | N/A |
 | [Universal Trading for Order Execution with Oracle Policy Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/17358) | Fang, Y., Ren, K., Liu, W., Zhou, D., Zhang, W., Bian, J., Yu, Y., Liu, T.Y. | 2021 | AAAI | N/A |
 | [DeepTrader: A Deep Reinforcement Learning Approach for Risk-Return Balanced Portfolio Management with Market Conditions Embedding](https://ojs.aaai.org/index.php/AAAI/article/view/17283) | Wang, Z., Huang, B., Tu, S., Zhang, K., Xu, L. | 2021 | AAAI | N/A |
 | [Commission Fee is Not Enough: A Hierarchical Reinforced Framework for Portfolio Management](https://ojs.aaai.org/index.php/AAAI/article/view/16570) | Wang, R., Wei, H., An, B., Feng, Z., Yao, J. | 2021 | AAAI | N/A |
+| [MASTER: Market-Guided Stock Transformer for Stock Price Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/29483) | — | 2024 | AAAI | N/A |
 | [Earnhft: Efficient Hierarchical Reinforcement Learning for High Frequency Trading](https://ojs.aaai.org/index.php/AAAI/article/view/29384) | Molei Qin, Shuo Sun, Wentao Zhang, Haochong Xia, Xinrun Wang, Bo An | 2024 | AAAI | N/A |
-
-### arXiv
-
-| **Paper** | **Authors** | **Year** | **arXiv ID** |
-|-----------|-------------|----------|-------------|
-| [Efficient Trading with Price Impact](https://arxiv.org/abs/2024) | X Brokmann et al. | 2024 | — |
-| [Dealing with Non-linear Price Impact Using Linear Strategies](https://arxiv.org/abs/2024) | X Brokmann, D Itkin, J Muhle-Karbe, P Schmidt | 2024 | — |
-| [Optimal Execution Under Deterministic Time-Varying Liquidity](https://arxiv.org/abs/2410.04867) | G Palmari, F Lillo, Z Eisler | 2024 | 2410.04867 |
 
 ---
 
-## 3. Trading Strategy & Portfolio Management
-
-### IJCAI
+## 5. IJCAI
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
+| [Deep Learning for Event-Driven Stock Prediction](https://www.ijcai.org/Proceedings/15/Papers/329.pdf) | — | 2015 | IJCAI | N/A |
 | [Robust Median Reversion Strategy for On-Line Portfolio Selection](https://www.ijcai.org/Proceedings/13/Papers/298.pdf) | Dingjiang Huang, Junlong Zhou, Bin Li, Steven CH Hoi, Shuigeng Zhou | 2013 | IJCAI | N/A |
+| [Modeling the Stock Relation with Graph Network](https://www.ijcai.org/proceedings/2020/0626.pdf) | — | 2020 | IJCAI | N/A |
+| [Multi-scale Two-way Deep Neural Network for Stock Trend Prediction](https://www.ijcai.org/proceedings/2020/0628.pdf) | — | 2020 | IJCAI | N/A |
+| [Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction](https://www.ijcai.org/proceedings/2020/0640.pdf) | — | 2020 | IJCAI | N/A |
 | [An End-to-End Optimal Trade Execution Framework Based on Proximal Policy Optimization](https://www.ijcai.org/proceedings/2020/0629.pdf) | Lin, S., Beling, P.A. | 2020 | IJCAI | N/A |
+| [Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction](https://www.ijcai.org/proceedings/2021/0508.pdf) | — | 2021 | IJCAI | N/A |
 | [StockFormer: Learning Hybrid Trading Machines with Predictive Coding](https://www.ijcai.org/proceedings/2023/0530.pdf) | — | 2023 | IJCAI | N/A |
+| [Trade When Opportunity Comes: Price Movement Forecasting via Locality-Aware Attention and Iterative Refinement Labeling](https://www.ijcai.org/proceedings/2024/0678.pdf) | — | 2024 | IJCAI | N/A |
+| [RSAP-DFM: Regime-Shifting Adaptive Posterior Dynamic Factor Model for Stock Returns Prediction](https://www.ijcai.org/proceedings/2024/0676.pdf) | — | 2024 | IJCAI | N/A |
 | [Enhancing Portfolio Optimization via Heuristic-Guided Inverse Reinforcement Learning](https://www.ijcai.org/proceedings/2025/1054.pdf) | — | 2025 | IJCAI | N/A |
 | [AlphaGAT: A Two-Stage Learning Approach for Adaptive Portfolio Selection](https://www.ijcai.org/proceedings/2025/0834.pdf) | — | 2025 | IJCAI | N/A |
 | [Asset Pricing with Contrastive Adversarial Variational Bayes](https://www.ijcai.org/proceedings/2025/0842.pdf) | — | 2025 | IJCAI | N/A |
+| [Multi-Scale Temporal Neural Network for Stock Trend Prediction Enhanced by Persistent Homology](https://www.ijcai.org/proceedings/2025/0364.pdf) | — | 2025 | IJCAI | N/A |
 
-### ICML
+---
 
-| **Paper** | **Authors** | **Year** | **Link** | **Code** |
-|-----------|-------------|----------|---------|---------|
-| [Long-and Short-Term Forecasting for Portfolio Selection with Transaction Costs](http://proceedings.mlr.press/v108/uziel20a/uziel20a.pdf) | Uziel & El-Yaniv | 2020 | ICML | N/A |
-| [Open Problem: Fast and Optimal Online Portfolio Selection](https://proceedings.mlr.press/v125/van-erven20a.html) | Van Erven et al. | 2020 | ICML | N/A |
-| [Damped Online Newton Step for Portfolio Selection](https://proceedings.mlr.press/v178/mhammedi22b/mhammedi22b.pdf) | Mhammedi et al. | 2022 | ICML | N/A |
-| [Conformal Prediction for Reliable Stock Selections](https://proceedings.mlr.press/v266/kaya25a.html) | Kaya & Nguyen | 2025 | ICML | N/A |
-| [Data Dependent Regret Bounds for Online Portfolio Selection with Predicted Returns](https://proceedings.mlr.press/v272/putta25a.html) | Putta & Agrawal | 2025 | ICML | N/A |
-
-### KDD
+## 6. KDD
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -100,126 +107,38 @@
 | [Investor-Imitator: A Framework for Trading Knowledge Extraction](https://www.kdd.org/kdd2018/accepted-papers/view/investor-imitator-a-framework-for-trading-knowledge-extraction) | Ding, Y., Liu, W., Bian, J., Zhang, D., Liu, T.Y. | 2018 | KDD | N/A |
 | [Multilevel Wavelet Decomposition Network for Interpretable Time Series Analysis](https://www.kdd.org/kdd2018/accepted-papers/view/multilevel-wavelet-decomposition-network-for-interpretable-time-series-analysis) | Wang, J., Wang, Z., Li, J., Wu, J. | 2018 | KDD | N/A |
 | [Alphastock: A Buying-Winners-and-Selling-Losers Investment Strategy Using Interpretable Deep Reinforcement Attention Networks](https://www.kdd.org/kdd2019/accepted-papers/view/alphastock-a-buying-winners-and-selling-losers-investment-strategy-using-inter) | Wang, J., Zhang, Y., Tang, K., Wu, J., Xiong, Z. | 2019 | KDD | N/A |
+| [Tracking the Dynamics in Crowdfunding](https://www.kdd.org/kdd2017/papers/view/tracking-the-dynamics-in-crowdfunding) | Zhao, H., Zhang, H., Ge, Y., Liu, Q., Chen, E., Li, H., Wu, L. | 2017 | KDD | N/A |
 | [A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist](https://doi.org/10.1145/3637528.3671801) | Wentao Zhang, Lingxuan Zhao, Haochong Xia, Shuo Sun, Jiaze Sun, Molei Qin, Xinyi Li, Yuqing Zhao, Yilei Zhao, Xinyu Cai, Longtao Zheng, Xinrun Wang, Bo An | 2024 | KDD | N/A |
 | [MacroHFT: Memory Augmented Context-Aware Reinforcement Learning on High Frequency Trading](https://dl.acm.org/doi/10.1145/3637528.3671813) | Zong, C., Wang, C., Qin, M., Feng, L., Wang, X., An, B. | 2024 | KDD | N/A |
-| [Tracking the Dynamics in Crowdfunding](https://www.kdd.org/kdd2017/papers/view/tracking-the-dynamics-in-crowdfunding) | Zhao, H., Zhang, H., Ge, Y., Liu, Q., Chen, E., Li, H., Wu, L. | 2017 | KDD | N/A |
-
-### arXiv
-
-| **Paper** | **Authors** | **Year** | **arXiv ID** |
-|-----------|-------------|----------|-------------|
-| [Dynamic Portfolio Optimization Using Full-Time Domain Neural Networks](https://arxiv.org/abs/2024) | PM van Staden, PA Forsyth, Y Li | 2024 | — |
-| [Statistical Arbitrage in Rank Space](https://arxiv.org/abs/2410.06568) | YF Li, G Papanicolaou | 2024 | 2410.06568 |
-| [Factor-Based Conditional Diffusion Model for Portfolio Optimization](https://openreview.net/pdf/0b43e1e527d24c2cfd1c7b3c6d5621b962a96eb7.pdf) | Xuefeng Gao, et al. | 2024 | — |
 
 ---
 
-## 4. Market Prediction & Signal Generation
-
-### IJCAI
+## 7. SIGIR
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
-| [Trade When Opportunity Comes: Price Movement Forecasting via Locality-Aware Attention and Iterative Refinement Labeling](https://www.ijcai.org/proceedings/2024/0678.pdf) | — | 2024 | IJCAI | N/A |
-| [RSAP-DFM: Regime-Shifting Adaptive Posterior Dynamic Factor Model for Stock Returns Prediction](https://www.ijcai.org/proceedings/2024/0676.pdf) | — | 2024 | IJCAI | N/A |
-| [Multi-Scale Temporal Neural Network for Stock Trend Prediction Enhanced by Persistent Homology](https://www.ijcai.org/proceedings/2025/0364.pdf) | — | 2025 | IJCAI | N/A |
-
-### NeurIPS
-
-| **Paper** | **Authors** | **Year** | **Link** | **Code** |
-|-----------|-------------|----------|---------|---------|
-| [CausalStock: Deep End-to-end Causal Discovery for News-driven Multi-stock Movement Prediction](https://proceedings.neurips.cc/paper_files/paper/2024/hash/54d689d58fe54c92aee2d732fc49fca8-Abstract-Conference.html) | Shuqi Li, Yuebo Sun, et al. | 2024 | NeurIPS | [arXiv](https://arxiv.org/abs/2411.06391) |
-| [From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6aef8bffb372096ee73d98da30119f89-Abstract-Conference.html) | Xinlei Wang, Maike Feng, Junhua Zhao, Jinjin Gu, et al. | 2024 | NeurIPS | [Code](https://github.com/ameliawong1996/From_News_to_Forecast) |
-| [FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f7ae4fe91d96f50abc2211f09b6a7e49-Abstract-Conference.html) | Yangyang Yu, Zhiyuan Yao, Haohang Li, et al. | 2024 | NeurIPS | [arXiv](https://arxiv.org/abs/2407.06567) |
-
-### AAAI
-
-| **Paper** | **Authors** | **Year** | **Link** | **Code** |
-|-----------|-------------|----------|---------|---------|
-| [Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks](https://ojs.aaai.org/index.php/AAAI/article/view/16077) | — | 2021 | AAAI | N/A |
-| [MASTER: Market-Guided Stock Transformer for Stock Price Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/29483) | — | 2024 | AAAI | N/A |
-
-### SIGIR
-
-| **Paper** | **Authors** | **Year** | **Link** | **Code** |
-|-----------|-------------|----------|---------|---------|
-| [Retrieving Implicit Information for Stock Movement Prediction](https://dl.acm.org/doi/10.1145/3404835.3462999) | — | 2021 | SIGIR | N/A |
 | [Stock Price Prediction via Discovering Multi-Frequency Trading Patterns](https://dl.acm.org/doi/10.1145/3097983.3098117) | — | 2017 | SIGIR | N/A |
-
-### arXiv
-
-| **Paper** | **Authors** | **Year** | **arXiv ID** |
-|-----------|-------------|----------|-------------|
-| [Multi-frequency Trading Patterns Discovery via Deep Reinforcement Learning](https://arxiv.org/abs/2024) | — | 2024 | — |
+| [Retrieving Implicit Information for Stock Movement Prediction](https://dl.acm.org/doi/10.1145/3404835.3462999) | — | 2021 | SIGIR | N/A |
 
 ---
 
-## 5. Multi-Agent Trading Systems
-
-| **Paper** | **Authors** | **Year** | **arXiv ID** | **Link** |
-|-----------|-------------|----------|-------------|---------|
-| [TradingAgents: Multi-Agent LLM Framework for Finance](https://zhuanlan.zhihu.com/p/1915184047216391305) | QuantML Community | 2025 | — | Zhihu |
-| [A Multimodal Foundation Agent for Financial Trading](https://dl.acm.org/doi/10.1145/3627673.3679731) | — | 2024 | — | ACM |
-| [FinRobot: AI Agent for Equity Research and Valuation with Large Language Models](https://arxiv.org/abs/2411.08804) | T Zhou, P Wang, Y Wu, H Yang | 2024 | 2411.08804 | arXiv |
-| [InvestESG: A Multi-agent Reinforcement Learning Benchmark for Climate Investment](https://arxiv.org/abs/2411.09856) | X Hou et al. | 2024 | 2411.09856 | arXiv |
-
----
-
-## 6. Machine Learning in Trading
-
-### Stock Prediction & Time Series
-
-| **Paper** | **Authors** | **Year** | **Link** | **Code** |
-|-----------|-------------|----------|---------|---------|
-| [Deep Learning for Event-Driven Stock Prediction](https://www.ijcai.org/Proceedings/15/Papers/329.pdf) | — | 2015 | IJCAI | N/A |
-| [Modeling the Stock Relation with Graph Network](https://www.ijcai.org/proceedings/2020/0626.pdf) | — | 2020 | IJCAI | N/A |
-| [Multi-scale Two-way Deep Neural Network for Stock Trend Prediction](https://www.ijcai.org/proceedings/2020/0628.pdf) | — | 2020 | IJCAI | N/A |
-| [Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction](https://www.ijcai.org/proceedings/2020/0640.pdf) | — | 2020 | IJCAI | N/A |
-| [Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction](https://www.ijcai.org/proceedings/2021/0508.pdf) | — | 2021 | IJCAI | N/A |
-
-### Time Series Forecasting (for Trading)
-
-| **Paper** | **Authors** | **Year** | **Link** | **Code** |
-|-----------|-------------|----------|---------|---------|
-| [Timer: Generative Pre-trained Transformers are Large Time Series Models](https://arxiv.org/abs/2402.02368) | — | 2024 | ICML | N/A |
-| [Sundial: A Family of Highly Capable Time Series Foundation Models](https://icml.cc/virtual/2025/papers.html) | — | 2025 | ICML | N/A |
-| [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://proceedings.neurips.cc/paper_files/paper/2021/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html) | Haixu Wu, Jiehui Xu, Jianmin Wang, Mingsheng Long | 2021 | NeurIPS | N/A |
-| [Time-LLM: Reprogramming LLMs for Time Series](https://arxiv.org/abs/2310.01728) | — | 2024 | arXiv | 2310.01728 |
-
----
-
-## 7. Neural Networks for Trading
-
-### Graph Neural Networks
-
-| **Paper** | **Authors** | **Year** | **Link** | **Code** |
-|-----------|-------------|----------|---------|---------|
-| [Predicting Margin Call with Dynamic Graph Neural Networks](https://arxiv.org/abs/2410.23275) | M Citterio, M D'Errico, G Visentin | 2024 | arXiv | 2410.23275 |
-| [Realized Volatility Prediction with Spillover Effects: A Graph Neural Network Perspective](https://arxiv.org/abs/2024) | C Zhang, X Pu, M Cucuringu, X Dong | 2024 | arXiv | — |
-
-### Transformer & Attention Models
-
-| **Paper** | **Authors** | **Year** | **Link** | **Code** |
-|-----------|-------------|----------|---------|---------|
-| [Modality-aware Transformer for Financial Time series Forecasting](https://arxiv.org/abs/2024) | H Emami Gohari et al. | 2024 | ACM | — |
-
----
-
-## 8. Other Top Conferences
-
-### ACL (Association for Computational Linguistics)
+## 8. ACL
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
 | [FLAG-TRADER: Fusion LLM-Agent with Gradient-based Reinforcement Learning for Financial Trading](https://aclanthology.org/2025.findings-acl.716/) | Guojun Xiong, Zhiyang Deng, Keyi Wang, Yupeng Cao, Haohang Li, Yangyang Yu, Xueqing Peng, Mingquan Lin, Kaleb E. Smith, Xiao-Yang Liu, Jimin Huang, Sophia Ananiadou, Qianqian Xie | 2025 | ACL | N/A |
 
-### EMNLP (Empirical Methods in Natural Language Processing)
+---
+
+## 9. EMNLP
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
 | [CryptoTrade: A Reflective LLM-Based Agent to Guide Zero-Shot Cryptocurrency Trading](https://aclanthology.org/2024.emnlp-main.75/) | Yuan Li, Bingqiao Luo, Qian Wang, Nuo Chen, Xu Liu, Bingsheng He | 2024 | EMNLP | N/A |
 
-### ACM ICAIF (AI in Finance)
+---
+
+## 10. ACM ICAIF
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -227,7 +146,9 @@
 | [FinRL-Podracer: High Performance and Scalable Deep Reinforcement Learning for Quantitative Finance](https://dl.acm.org/doi/10.1145/3490354.3490355) | Li, Z., Liu, X. Y., Zheng, J., Wang, Z., Walid, A., Guo, J. | 2021 | ACM ICAIF | [GitHub](https://github.com/AI4Finance-Foundation/FinRL-Podracer) |
 | [Synthetic Data Augmentation for Deep Reinforcement Learning in Financial Trading](https://dl.acm.org/doi/10.1145/3533271.3561697) | Liu, C., Ventre, C., Polukarov, M. | 2022 | ACM ICAIF | N/A |
 
-### ACM CIKM
+---
+
+## 11. ACM CIKM
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -235,7 +156,7 @@
 
 ---
 
-## 9. arXiv Preprints & Recent Works
+## 12. arXiv Preprints & Recent Works
 
 ### LLM-Based Trading & Analysis
 
@@ -245,11 +166,18 @@
 | [AI in Investment Analysis: LLMs for Equity Stock Ratings](https://arxiv.org/abs/2024) | K Papasotiriou, S Sood, S Reynolds, T Balch | 2024 | — | J.P. Morgan AI Research |
 | [Adaptive and Explainable Margin Trading Via Large Language Models on Portfolio Management](https://arxiv.org/abs/2024) | J Gu, J Ye, G Wang, W Yin | 2024 | — | NJIT, Penn State |
 | [Extracting Alpha from Financial Analyst Networks](https://arxiv.org/abs/2410.20597) | D Gorduza, Y Kong, X Dong, S Zohren | 2024 | 2410.20597 | Oxford University |
+| [TradingAgents: Multi-Agent LLM Framework for Finance](https://zhuanlan.zhihu.com/p/1915184047216391305) | QuantML Community | 2025 | — | Zhihu |
+| [FinRobot: AI Agent for Equity Research and Valuation with Large Language Models](https://arxiv.org/abs/2411.08804) | T Zhou, P Wang, Y Wu, H Yang | 2024 | 2411.08804 | arXiv |
+| [InvestESG: A Multi-agent Reinforcement Learning Benchmark for Climate Investment](https://arxiv.org/abs/2411.09856) | X Hou et al. | 2024 | 2411.09856 | arXiv |
+| [Time-LLM: Reprogramming LLMs for Time Series](https://arxiv.org/abs/2310.01728) | — | 2024 | 2310.01728 | arXiv |
 
 ### Market Microstructure & Execution
 
 | **Paper** | **Authors** | **Year** | **arXiv ID** | **Notes** |
 |-----------|-------------|----------|-------------|---------|
+| [Efficient Trading with Price Impact](https://arxiv.org/abs/2024) | X Brokmann et al. | 2024 | — | — |
+| [Dealing with Non-linear Price Impact Using Linear Strategies](https://arxiv.org/abs/2024) | X Brokmann, D Itkin, J Muhle-Karbe, P Schmidt | 2024 | — | — |
+| [Optimal Execution Under Deterministic Time-Varying Liquidity](https://arxiv.org/abs/2410.04867) | G Palmari, F Lillo, Z Eisler | 2024 | 2410.04867 | — |
 | [No Tick Too Small: Generic Approach to Model Small Tick Limit Order Books](https://arxiv.org/abs/2410.08744) | K Jain, JF Muzy, J Kochems, E Bacry | 2024 | 2410.08744 | UCL, Oxford |
 | [Multi-task Dynamic Pricing in Credit Markets with Contextual Information](https://arxiv.org/abs/2410.14839) | A Javanmard, J Ji, R Xu | 2024 | 2410.14839 | NYU, USC |
 | [Simulating and Analyzing Sparse Order Books: Applications in Intraday Power Markets](https://arxiv.org/abs/2410.06839) | P Bergault, E Cognéville | 2024 | 2410.06839 | Université Paris Dauphine, EDF |
@@ -271,58 +199,77 @@
 | [Efficient Nested Estimation of CoVaR: A Decoupled Approach](https://arxiv.org/abs/2411.01319) | N Lin et al. | 2024 | 2411.01319 | Shanghai Jiao Tong, Fudan |
 | [DGraph: Graph Anomaly Detection in Finance](https://arxiv.org/abs/2207.03579) | — | 2022 | 2207.03579 | NeurIPS |
 
+### Portfolio & Trading Optimization
+
+| **Paper** | **Authors** | **Year** | **arXiv ID** | **Notes** |
+|-----------|-------------|----------|-------------|---------|
+| [Dynamic Portfolio Optimization Using Full-Time Domain Neural Networks](https://arxiv.org/abs/2024) | PM van Staten, PA Forsyth, Y Li | 2024 | — | — |
+| [Statistical Arbitrage in Rank Space](https://arxiv.org/abs/2410.06568) | YF Li, G Papanicolaou | 2024 | 2410.06568 | — |
+| [Factor-Based Conditional Diffusion Model for Portfolio Optimization](https://openreview.net/pdf/0b43e1e527d24c2cfd1c7b3c6d5621b962a96eb7.pdf) | Xuefeng Gao, et al. | 2024 | — | — |
+| [Multi-frequency Trading Patterns Discovery via Deep Reinforcement Learning](https://arxiv.org/abs/2024) | — | 2024 | — | — |
+| [Predicting Margin Call with Dynamic Graph Neural Networks](https://arxiv.org/abs/2410.23275) | M Citterio, M D'Errico, G Visentin | 2024 | 2410.23275 | arXiv |
+| [Realized Volatility Prediction with Spillover Effects: A Graph Neural Network Perspective](https://arxiv.org/abs/2024) | C Zhang, X Pu, M Cucuringu, X Dong | 2024 | — | — |
+| [Modality-aware Transformer for Financial Time series Forecasting](https://arxiv.org/abs/2024) | H Emami Gohari et al. | 2024 | — | ACM |
+| [A Multimodal Foundation Agent for Financial Trading](https://dl.acm.org/doi/10.1145/3627673.3679731) | — | 2024 | — | ACM |
+
 ---
 
 ## 📊 Paper Distribution by Conference
 
-| Conference | # Papers | Years | Focus |
-|-----------|----------|-------|-------|
-| **NeurIPS** | 5 | 1998-2024 | RL, Trading Platform, Stock Prediction |
-| **IJCAI** | 5 | 2023-2025 | Trading Machines, Portfolio Optimization, Stock Prediction |
-| **ICML** | 5 | 2020-2025 | Portfolio Selection, Time Series, RL |
-| **AAAI** | 2 | 2021-2024 | Order Execution, Stock Prediction |
-| **KDD** | 2 | 2017-2018 | Portfolio Valuation, Trading Knowledge |
-| **SIGIR** | 2 | 2017-2021 | Stock Prediction |
-| **arXiv & Other** | 20+ | 2024-2025 | LLMs, Market Microstructure, Risk |
+| Conference | # Papers | Years | Key Topics |
+|-----------|----------|-------|-----------|
+| **NeurIPS** | 10 | 1998-2024 | RL, Trading Platforms, Time Series, Stock Prediction |
+| **IJCAI** | 14 | 2013-2025 | Portfolio Optimization, Stock Prediction, Trading Execution |
+| **ICML** | 7 | 2020-2025 | Portfolio Selection, Time Series, Online Learning |
+| **AAAI** | 10 | 2017-2024 | RL Trading, Portfolio Management, Stock Prediction |
+| **KDD** | 7 | 2017-2024 | Trading Algorithms, Portfolio Management, Agent Systems |
+| **SIGIR** | 2 | 2017-2021 | Stock Prediction, Pattern Discovery |
+| **ACL** | 1 | 2025 | LLM-Based Trading |
+| **EMNLP** | 1 | 2024 | LLM-Based Trading |
+| **ACM ICAIF** | 3 | 2020-2022 | RL for Trading, Scalable Systems, Data Augmentation |
+| **ACM CIKM** | 1 | 2019 | Portfolio Management |
+| **ICLR** | 1 | 2025 | LLM-Based Trading |
+| **arXiv & Other** | 30+ | 2022-2025 | LLMs, Market Microstructure, Portfolio Optimization |
 | **Total** | **50+** | 1998-2025 | — |
 
 ---
 
-## 🎯 Papers by Application Domain
+## 🎯 Key Application Areas
 
-### Reinforcement Learning & Deep Learning for Trading
-- FinRL, TradeMaster, OPAL
-- Maximum Entropy RL with Diffusion Policy
-- Offline RL for Trading Applications
-
-### Order Execution & Market Making
-- Universal Trading for Order Execution
-- Optimal Execution under Price Impact
-- Limit Order Book Modeling
-- Dynamic Pricing in Credit Markets
-
-### Stock Price & Movement Prediction
-- CausalStock, MASTER, StockFormer
-- Trade When Opportunity Comes
-- Deep learning for event-driven prediction
-- Graph attention networks for momentum prediction
+### Reinforcement Learning for Trading
+- FinRL, TradeMaster, FinRL-Meta, FinRL-Podracer
+- Policy-based and value-based RL approaches
+- Deep RL for stock trading and portfolio management
 
 ### Portfolio Management & Optimization
 - Online portfolio selection algorithms
-- Heuristic-guided inverse RL
+- Risk-return optimization
+- Machine learning-based asset allocation
 - Conformal prediction for stock selection
-- Factor-based conditional diffusion models
 
-### Market Microstructure & Liquidity
-- Limit order book dynamics
-- Volatility prediction with GNNs
-- Spoofing detection and prevention
+### Stock Price Prediction & Signal Generation
+- Time series forecasting with transformers
+- Graph neural networks for stock relations
+- Multi-agent systems for market analysis
+- Event-driven and causal discovery approaches
+
+### Order Execution & Market Microstructure
+- Optimal execution under price impact
+- Limit order book modeling
+- High-frequency trading algorithms
+- Dynamic pricing and liquidity analysis
 
 ### LLM Applications in Trading
-- FinLlama for sentiment analysis
+- LLM-based sentiment analysis
 - AI agents for equity research
 - Multi-agent trading systems
-- LLMs for investment analysis
+- LLM-driven portfolio construction
+
+### Risk Management & Anomaly Detection
+- Volatility prediction
+- Graph anomaly detection
+- Value-at-Risk estimation
+- Derivatives pricing and hedging
 
 ---
 
@@ -332,13 +279,14 @@
 |---------|-------------|--------|
 | **FinRL** | Deep RL for automated stock trading | [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) |
 | **TradeMaster** | Holistic quantitative trading platform | [TradeMaster-NTU/TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) |
-| **QuantML** | Quantitative ML community & framework | [QuantML-Com/QuantML](https://github.com/QuantML-Com/QuantML) |
+| **FinRL-Meta** | Market environments and benchmarks | [AI4Finance-Foundation/FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta) |
+| **FinRL-Podracer** | Scalable deep RL for finance | [AI4Finance-Foundation/FinRL-Podracer](https://github.com/AI4Finance-Foundation/FinRL-Podracer) |
 
 ---
 
 ## 🔗 Related Resources
 
-- **Conference Proceedings**: NeurIPS, IJCAI, ICML, AAAI, KDD, SIGIR, WWW
+- **Conference Proceedings**: NeurIPS, IJCAI, ICML, AAAI, KDD, SIGIR, ACL, EMNLP
 - **arXiv**: [q-fin](https://arxiv.org/list/q-fin/recent) and [cs.LG](https://arxiv.org/list/cs.LG/recent)
 - **QuantML Community**: [quantml.cn](https://www.quantml.cn/)
 - **Quant Wiki**: [quant-wiki.com](https://quant-wiki.com/ai/)
@@ -356,8 +304,8 @@ Format:
 
 Steps:
 1. Fork the repo
-2. Add papers to appropriate section
-3. Include: title, authors, year, conference/arXiv ID
+2. Add papers to appropriate conference section
+3. Include: title, authors, year, venue, link
 4. Submit a PR with paper source
 
 ---
@@ -369,7 +317,7 @@ Steps:
   title={Algorithmic Trading & Execution Papers Collection},
   author={GuangyanGan},
   year={2026},
-  howpublished={\url{https://github.com/GuangyanGan/AI4Finance/TRADING.md}},
+  howpublished={\url{https://github.com/GuangyanGan/AI4Finance/Trading.md}},
 }
 ```
 
