@@ -15,7 +15,8 @@
 5. [ACL](#5-acl)
 6. [EMNLP](#6-emnlp)
 7. [ACM ICAIF](#7-acm-icaif)
-8. [arXiv Preprints & Recent Works](#8-arxiv-preprints--recent-works)
+8. [ACM Web Conference](#8-acm-web-conference)
+9. [arXiv Preprints & Recent Works](#9-arxiv-preprints--recent-works)
 
 ---
 
@@ -94,7 +95,15 @@
 
 ---
 
-## 8. arXiv Preprints & Recent Works
+## 8. ACM Web Conference
+
+| **Paper** | **Authors** | **Year** | **Link** | **Code** |
+|-----------|-------------|----------|---------|---------|
+| [HedgeAgents: A Balanced-Aware Multi-Agent Financial Trading System](https://doi.org/10.1145/3589335.3651498) | Li, X., Zeng, Y., Xing, X., Xu, J., Xu, X. | 2025 | ACM Web Conference | N/A |
+
+---
+
+## 9. arXiv Preprints & Recent Works
 
 ### LLM-Based Trading & Analysis
 
