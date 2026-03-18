@@ -9,14 +9,13 @@
 ## 📑 Table of Contents
 
 1. [NeurIPS](#1-neurips)
-2. [ICLR](#2-iclr)
-3. [AAAI](#3-aaai)
-4. [IJCAI](#4-ijcai)
-5. [KDD](#5-kdd)
-6. [ACL](#6-acl)
-7. [EMNLP](#7-emnlp)
-8. [ACM ICAIF](#8-acm-icaif)
-9. [arXiv Preprints & Recent Works](#9-arxiv-preprints--recent-works)
+2. [AAAI](#2-aaai)
+3. [IJCAI](#3-ijcai)
+4. [KDD](#4-kdd)
+5. [ACL](#5-acl)
+6. [EMNLP](#6-emnlp)
+7. [ACM ICAIF](#7-acm-icaif)
+8. [arXiv Preprints & Recent Works](#8-arxiv-preprints--recent-works)
 
 ---
 
@@ -34,15 +33,7 @@
 
 ---
 
-## 2. ICLR
-
-| **Paper** | **Authors** | **Year** | **Link** | **Code** |
-|-----------|-------------|----------|---------|---------|
-| [Advancing Algorithmic Trading with Large Language Models](https://openreview.net/pdf?id=w7BGq6ozOL) | — | 2025 | ICLR | N/A |
-
----
-
-## 3. AAAI
+## 2. AAAI
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -53,7 +44,7 @@
 
 ---
 
-## 4. IJCAI
+## 3. IJCAI
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -63,7 +54,7 @@
 
 ---
 
-## 5. KDD
+## 4. KDD
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -74,7 +65,7 @@
 
 ---
 
-## 6. ACL
+## 5. ACL
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -84,7 +75,7 @@
 
 ---
 
-## 7. EMNLP
+## 6. EMNLP
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -93,7 +84,7 @@
 
 ---
 
-## 8. ACM ICAIF
+## 7. ACM ICAIF
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -103,7 +94,7 @@
 
 ---
 
-## 9. arXiv Preprints & Recent Works
+## 8. arXiv Preprints & Recent Works
 
 ### LLM-Based Trading & Analysis
 
