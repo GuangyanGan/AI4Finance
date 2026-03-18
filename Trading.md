@@ -25,9 +25,7 @@
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
-| [Optimal Asset Allocation Using Adaptive Dynamic Programming](https://proceedings.neurips.cc/paper/1996/hash/f26b8f23f6e038a30ec5e77e9fc07b13-Abstract.html) | Neuneier, R. | 1996 | NeurIPS | N/A |
 | [Reinforcement Learning for Trading](https://proceedings.neurips.cc/paper/1998/hash/4e6cd95227cb0c280e99a195be5f6615-Abstract.html) | John Moody, Matthew Saffell | 1998 | NeurIPS | N/A |
-| [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://proceedings.neurips.cc/paper/2000/hash/f2577d4d3d85b4b2b52b0abebb14325a-Abstract.html) | Sutton, R.S., McAllester, D.A., Singh, S.P., Mansour, Y. | 2000 | NeurIPS | N/A |
 | [Practical Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/abs/1811.07522) | Zhuoran Xiong, Xiao-Yang Liu, Shan Zhong, Hongyang Yang, Anwar Walid | 2018 | NeurIPS Workshop | N/A |
 | [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance](https://neurips.cc/virtual/2020/19841) | Xiao-Yang Liu, Hongyang Yang, Qian Chen, et al. | 2020 | NeurIPS Workshop | [GitHub](https://github.com/AI4Finance-Foundation/FinRL) |
 | [FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning](https://arxiv.org/abs/2211.03207) | Liu, X. Y., Xia, Z., Rui, J., Gao, J., Yang, H., Zhu, M., et al. | 2022 | NeurIPS | [GitHub](https://github.com/AI4Finance-Foundation/FinRL-Meta) |
@@ -37,18 +35,11 @@
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
-| [Deterministic Policy Gradient Algorithms](https://proceedings.mlr.press/v32/silver14.html) | Silver, D., Lever, G., Heess, N., Degris, T., Wierstra, D., Riedmiller, M. | 2014 | ICML | N/A |
-| [Gated Feedback Recurrent Neural Networks](https://proceedings.mlr.press/v37/chung15.html) | Chung, J., Gulcehre, C., Cho, K., Bengio, Y. | 2015 | ICML | N/A |
-| [A Distributional Perspective on Reinforcement Learning](https://proceedings.mlr.press/v70/bellemare17a.html) | Bellemare, M.G., Dabney, W., Munos, R. | 2017 | ICML | N/A |
-| [Context-Aware Dynamics Model for Generalization in Model-Based Reinforcement Learning](https://proceedings.mlr.press/v139/lee21b.html) | Lee, K., Seo, Y., Lee, S., Lee, H., Shin, J. | 2020 | ICML | N/A |
-| [Maximum Entropy Reinforcement Learning with Diffusion Policy](https://icml.cc/virtual/2025/papers.html) | — | 2025 | ICML | N/A |
 
 ### ICLR
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
-| [Continuous Control with Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971) | Lillicrap, T.P., Hunt, J.J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., Silver, D., Wierstra, D. | 2015 | ICLR | N/A |
-| [OPAL: Offline Primitive Discovery for Accelerating Offline Reinforcement Learning](https://dblp.org/rec/conf/iclr/AjayKALN21.html) | — | 2021 | ICLR | N/A |
 | [Advancing Algorithmic Trading with Large Language Models](https://openreview.net/pdf?id=w7BGq6ozOL) | — | 2025 | ICLR | N/A |
 
 ---
