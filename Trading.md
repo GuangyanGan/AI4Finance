@@ -234,6 +234,7 @@
 |-----------|-------------|----------|---------|---------|
 | [Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy](https://arxiv.org/abs/2012.08694) | Hongyang Yang, Xiao-Yang Liu, Shan Zhong, Anwar Walid | 2020 | ACM ICAIF | N/A |
 | [FinRL-Podracer: High Performance and Scalable Deep Reinforcement Learning for Quantitative Finance](https://dl.acm.org/doi/10.1145/3490354.3490355) | Li, Z., Liu, X. Y., Zheng, J., Wang, Z., Walid, A., Guo, J. | 2021 | ACM ICAIF | [GitHub](https://github.com/AI4Finance-Foundation/FinRL-Podracer) |
+| [Synthetic Data Augmentation for Deep Reinforcement Learning in Financial Trading](https://dl.acm.org/doi/10.1145/3533271.3561697) | Liu, C., Ventre, C., Polukarov, M. | 2022 | ACM ICAIF | N/A |
 
 ### ACM CIKM
 
