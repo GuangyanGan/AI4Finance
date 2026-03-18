@@ -78,16 +78,7 @@
 
 ---
 
-## 6. SIGIR
-
-| **Paper** | **Authors** | **Year** | **Link** | **Code** |
-|-----------|-------------|----------|---------|---------|
-| [Stock Price Prediction via Discovering Multi-Frequency Trading Patterns](https://dl.acm.org/doi/10.1145/3097983.3098117) | — | 2017 | SIGIR | N/A |
-| [Retrieving Implicit Information for Stock Movement Prediction](https://dl.acm.org/doi/10.1145/3404835.3462999) | — | 2021 | SIGIR | N/A |
-
----
-
-## 7. ACL
+## 6. ACL
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -95,7 +86,7 @@
 
 ---
 
-## 8. EMNLP
+## 7. EMNLP
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -103,7 +94,7 @@
 
 ---
 
-## 9. ACM ICAIF
+## 8. ACM ICAIF
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -113,28 +104,15 @@
 
 ---
 
-## 10. ACM CIKM
-
-| **Paper** | **Authors** | **Year** | **Link** | **Code** |
-|-----------|-------------|----------|---------|---------|
-| [A Multi-Scale Temporal Feature Aggregation Convolutional Neural Network for Portfolio Management](https://dl.acm.org/doi/10.1145/3219819.3220057) | Si Shi, Jianjun Li, Guohui Li, Peng Pan | 2019 | CIKM | N/A |
-
----
-
-## 11. arXiv Preprints & Recent Works
+## 9. arXiv Preprints & Recent Works
 
 ### LLM-Based Trading & Analysis
 
 | **Paper** | **Authors** | **Year** | **arXiv ID** | **Notes** |
 |-----------|-------------|----------|-------------|---------|
 | [FinLlama: LLM-Based Financial Sentiment Analysis for Algorithmic Trading](https://arxiv.org/abs/2024) | G Iacovides, T Konstantinidis, M Xu, D Mandic | 2024 | — | Imperial College London |
-| [AI in Investment Analysis: LLMs for Equity Stock Ratings](https://arxiv.org/abs/2024) | K Papasotiriou, S Sood, S Reynolds, T Balch | 2024 | — | J.P. Morgan AI Research |
-| [Adaptive and Explainable Margin Trading Via Large Language Models on Portfolio Management](https://arxiv.org/abs/2024) | J Gu, J Ye, G Wang, W Yin | 2024 | — | NJIT, Penn State |
-| [Extracting Alpha from Financial Analyst Networks](https://arxiv.org/abs/2410.20597) | D Gorduza, Y Kong, X Dong, S Zohren | 2024 | 2410.20597 | Oxford University |
 | [TradingAgents: Multi-Agent LLM Framework for Finance](https://zhuanlan.zhihu.com/p/1915184047216391305) | QuantML Community | 2025 | — | Zhihu |
 | [FinRobot: AI Agent for Equity Research and Valuation with Large Language Models](https://arxiv.org/abs/2411.08804) | T Zhou, P Wang, Y Wu, H Yang | 2024 | 2411.08804 | arXiv |
-| [InvestESG: A Multi-agent Reinforcement Learning Benchmark for Climate Investment](https://arxiv.org/abs/2411.09856) | X Hou et al. | 2024 | 2411.09856 | arXiv |
-| [Time-LLM: Reprogramming LLMs for Time Series](https://arxiv.org/abs/2310.01728) | — | 2024 | 2310.01728 | arXiv |
 
 ### Market Microstructure & Execution
 
