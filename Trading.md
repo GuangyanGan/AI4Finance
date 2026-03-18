@@ -100,6 +100,7 @@
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
 | [HedgeAgents: A Balanced-Aware Multi-Agent Financial Trading System](https://doi.org/10.1145/3589335.3651498) | Li, X., Zeng, Y., Xing, X., Xu, J., Xu, X. | 2025 | ACM Web Conference | N/A |
+| [RTBAgent: A LLM-Based Agent System for Real-Time Bidding](https://doi.org/10.1145/3589335.3651499) | Cai, L., He, J., Li, Y., Liang, J., Lin, Y., Quan, Z., et al. | 2025 | ACM Web Conference | N/A |
 
 ---
 
