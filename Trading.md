@@ -12,11 +12,12 @@
 2. [AAAI](#2-aaai)
 3. [IJCAI](#3-ijcai)
 4. [KDD](#4-kdd)
-5. [ACL](#5-acl)
-6. [EMNLP](#6-emnlp)
-7. [ACM ICAIF](#7-acm-icaif)
-8. [ACM Web Conference](#8-acm-web-conference)
-9. [arXiv Preprints & Recent Works](#9-arxiv-preprints--recent-works)
+5. [SIGIR](#5-sigir)
+6. [ACL](#6-acl)
+7. [EMNLP](#7-emnlp)
+8. [ACM ICAIF](#8-acm-icaif)
+9. [ACM Web Conference](#9-acm-web-conference)
+10. [arXiv Preprints & Recent Works](#10-arxiv-preprints--recent-works)
 
 ---
 
@@ -66,7 +67,15 @@
 
 ---
 
-## 5. ACL
+## 5. SIGIR
+
+| **Paper** | **Authors** | **Year** | **Link** | **Code** |
+|-----------|-------------|----------|---------|---------|
+| [Knowledge Graph-Based Event Embedding Framework for Financial Quantitative Investments](https://dl.acm.org/doi/10.1145/3397271.3401323) | Cheng, D., Yang, F., Wang, X., Zhang, Y., Zhang, L. | 2020 | SIGIR | N/A |
+
+---
+
+## 6. ACL
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
 |-----------|-------------|----------|---------|---------|
@@ -104,7 +113,7 @@
 
 ---
 
-## 9. arXiv Preprints & Recent Works
+## 10. arXiv Preprints & Recent Works
 
 ### LLM-Based Trading & Analysis
 
