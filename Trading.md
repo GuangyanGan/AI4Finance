@@ -226,6 +226,12 @@
 |-----------|-------------|----------|---------|---------|
 | [CryptoTrade: A Reflective LLM-Based Agent to Guide Zero-Shot Cryptocurrency Trading](https://aclanthology.org/2024.emnlp-main.75/) | Yuan Li, Bingqiao Luo, Qian Wang, Nuo Chen, Xu Liu, Bingsheng He | 2024 | EMNLP | N/A |
 
+### ACM ICAIF (AI in Finance)
+
+| **Paper** | **Authors** | **Year** | **Link** | **Code** |
+|-----------|-------------|----------|---------|---------|
+| [Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy](https://arxiv.org/abs/2012.08694) | Hongyang Yang, Xiao-Yang Liu, Shan Zhong, Anwar Walid | 2020 | ACM ICAIF | N/A |
+
 ### ACM CIKM
 
 | **Paper** | **Authors** | **Year** | **Link** | **Code** |
