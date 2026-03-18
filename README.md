@@ -20,7 +20,7 @@ This repository focuses specifically on:
 
 ## 📄 Main Content
 
-### [TRADING.md](./TRADING.md)
+### [Trading.md](./Trading.md)
 
 A comprehensive collection of **42+ papers** from top CCF-A/B level conferences covering algorithmic trading and execution:
 
@@ -41,7 +41,7 @@ A comprehensive collection of **42+ papers** from top CCF-A/B level conferences 
 
 ## 📖 How to Use
 
-1. **Open [TRADING.md](./TRADING.md)** - All trading and execution papers are organized by topic
+1. **Open [Trading.md](./Trading.md)** - All trading and execution papers are organized by topic
 2. **Search by Conference** - Find papers from your preferred venue (NeurIPS, ICML, IJCAI, AAAI, etc.)
 3. **Browse by Topic** - Papers are categorized by research area (RL, Portfolio Optimization, etc.)
 4. **Find Code** - Papers with available code/implementations are marked with links
@@ -86,7 +86,7 @@ Found a trading-related paper we missed? Please contribute!
 
 Steps:
 1. Fork the repo
-2. Add papers to [TRADING.md](./TRADING.md)
+2. Add papers to [Trading.md](./Trading.md)
 3. Include: title, authors, year, conference, link
 4. Submit a PR with details
 
