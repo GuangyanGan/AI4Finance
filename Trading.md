@@ -159,31 +159,6 @@
 
 ---
 
-## 🎯 Key Application Areas
-
-### Reinforcement Learning for Trading
-- FinRL, TradeMaster, FinRL-Meta, FinRL-Podracer
-- Policy-based and value-based RL approaches
-- Deep RL for automated stock trading
-
-### Trading Execution & Strategies
-- Optimal execution frameworks
-- High-frequency trading algorithms
-- Statistical arbitrage strategies
-- Trading pattern discovery with RL
-
-### Market Microstructure & Liquidity
-- Limit order book modeling
-- Price impact and optimal execution
-- Trading under liquidity constraints
-
-### LLM Applications in Trading
-- LLM-based trading agents
-- Multi-agent trading systems
-- Algorithmic trading with LLMs
-
----
-
 ## 📚 Key Open-Source Projects
 
 | Project | Description | GitHub |
