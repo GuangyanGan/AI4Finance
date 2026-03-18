@@ -110,6 +110,7 @@
 | [Multilevel Wavelet Decomposition Network for Interpretable Time Series Analysis](https://www.kdd.org/kdd2018/accepted-papers/view/multilevel-wavelet-decomposition-network-for-interpretable-time-series-analysis) | Wang, J., Wang, Z., Li, J., Wu, J. | 2018 | KDD | N/A |
 | [Alphastock: A Buying-Winners-and-Selling-Losers Investment Strategy Using Interpretable Deep Reinforcement Attention Networks](https://www.kdd.org/kdd2019/accepted-papers/view/alphastock-a-buying-winners-and-selling-losers-investment-strategy-using-inter) | Wang, J., Zhang, Y., Tang, K., Wu, J., Xiong, Z. | 2019 | KDD | N/A |
 | [A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist](https://doi.org/10.1145/3637528.3671801) | Wentao Zhang, Lingxuan Zhao, Haochong Xia, Shuo Sun, Jiaze Sun, Molei Qin, Xinyi Li, Yuqing Zhao, Yilei Zhao, Xinyu Cai, Longtao Zheng, Xinrun Wang, Bo An | 2024 | KDD | N/A |
+| [MacroHFT: Memory Augmented Context-Aware Reinforcement Learning on High Frequency Trading](https://dl.acm.org/doi/10.1145/3637528.3671813) | Zong, C., Wang, C., Qin, M., Feng, L., Wang, X., An, B. | 2024 | KDD | N/A |
 | [Tracking the Dynamics in Crowdfunding](https://www.kdd.org/kdd2017/papers/view/tracking-the-dynamics-in-crowdfunding) | Zhao, H., Zhang, H., Ge, Y., Liu, Q., Chen, E., Li, H., Wu, L. | 2017 | KDD | N/A |
 
 ### arXiv
